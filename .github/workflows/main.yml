@@ -47,6 +47,10 @@ jobs:
                   --template=bootstrap-template.html \
                   --mathjax --toc -t html > ${f%.md}.html
           done <<< "${{needs.changedfiles.outputs.md}}"
+      
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:   
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
