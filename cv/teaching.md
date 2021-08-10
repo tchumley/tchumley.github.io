@@ -1,0 +1,65 @@
+Teaching {#teaching .unnumbered}
+========
+
+Mount Holyoke College {#mount-holyoke-college .unnumbered}
+---------------------
+
+-	Math 342, Probability (2 sections), Spring 2021.
+
+-	Math 395, Independent study in Billiards and Thermodynamics (1 student), Spring 2021.
+
+-	Math 301, Real Analysis (2 sections), Fall 2020.
+
+-	Math 101, Calculus I, Spring 2019.
+
+-	Math 339SP/Stat 344, Stochastic Processes, Spring 2019.
+
+-	Math 395, Independent study in Random Billiards (1 student), Spring 2019.
+
+-	Math 232, Discrete Math, Fall 2018.
+
+-   Math 342, Probability, Fall 2018.
+
+-	Math 395, Independent study in Random Billiards (1 student), Fall 2018.
+
+-	Math 339SP, Stochastic Processes, Spring 2018.
+	
+-	Math 333, Differential Equations, Spring 2018.
+
+-   Math 342, Probability (2 sections), Fall 2017.
+	
+-	Stat 395, Independent study in Statistical Analysis of Networks (3 students), Fall 2017.
+
+-	Student Research (2 students), Summer 2017.
+	
+-   Math 211, Linear Algebra, Spring 2017.
+	
+-   Math 339SP/Stat 344, Stochastic Processes, Spring 2017.
+
+-   Math 102, Calculus II, Fall 2016.
+
+-   Math 342, Probability, Fall 2016.
+
+
+Iowa State University {#iowa-state-university .unnumbered}
+---------------------
+
+-   Math 166, Calculus II, Fall 2015.
+
+-   Math 501, Introduction to Real Analysis, Fall 2014.
+
+-   Math 317, Theory of Linear Algebra, Spring 2014.
+
+-   Math 166, Calculus II, Fall 2013.
+
+Washington University {#washington-university .unnumbered}
+---------------------
+
+-   Math 309, Matrix Algebra, Summer 2012.
+
+-   Math 1011, Introduction to Statistics, Summer 2010.
+
+-	Math 1011, Introduction to Statistics, Summer 2009.
+
+-   Math 155, Calculus I, Summer 2008.
+

@@ -1,0 +1,104 @@
+% Timothy Chumley - Curriculum Vitae
+% tchumley@gmail.com
+
+
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{etoolbox}
+
+
+% Fonts
+\usepackage[T1]{fontenc}
+\usepackage[urw-garamond]{mathdesign}
+
+% Set your name here
+\def\name{Timothy Chumley}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {mathematics, probability, dynamical systems, billiards},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 9.0in},
+  left=1.0in,
+  top=1.0in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets and compact spacing
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+    \setlength{\itemsep}{0.25em}
+    \setlength{\parskip}{0pt}
+    \setlength{\parsep}{0.25em}
+  }
+}{
+  \end{list}
+}
+\setlist[enumerate]{itemsep=0.25em}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\let\tightlist\relax
+
+% Toggles
+% set 'long' to TRUE for long CV version
+% set 'teaching' to TRUE for teaching oriented CV
+\newtoggle{long}
+\toggletrue{long}
+\newtoggle{teaching}
+%\toggletrue{teaching}
+
+\begin{document}
+
+% Place name at left
+{\huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\bigskip
+
+\begin{minipage}[t]{0.495\textwidth}
+  Department of Mathematics \& Statistics \\
+  Mount Holyoke College \\
+  50 College St \\
+  South Hadley, MA 01075
+\end{minipage}
+\begin{minipage}[t]{0.495\textwidth}
+  Phone: (413) 538-2299 \\
+  Office: 404b Clapp Lab \\
+  Email: \href{mailto:tchumley@mtholyoke.edu}{\tt tchumley@mtholyoke.edu} \\
+  Homepage: \url{http://mtholyoke.edu/~tchumley}
+\end{minipage}
+
