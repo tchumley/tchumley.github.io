@@ -1,0 +1,55 @@
+name: Make html
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  changedfiles:
+    runs-on: ubuntu-18.04
+    outputs:
+      md: ${{ steps.changes.outputs.md }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 2
+      - name: Get changed files
+        id: changes
+        run: |
+          MY_STRING=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -o '^docs\/.*\.md' | while read -r line; do echo "$line"; done)
+          MY_STRING="${MY_STRING//'%'/'%25'}"
+          MY_STRING="${MY_STRING//$'\n'/'%0A'}"
+          MY_STRING="${MY_STRING//$'\r'/'%0D'}"
+          echo "::set-output name=md::$MY_STRING"
+  
+  processing:
+    runs-on: ubuntu-18.04
+    needs: changedfiles
+    if: ${{needs.changedfiles.outputs.md}}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 2
+      - name: Echo changed files
+        run: echo "${{needs.changedfiles.outputs.md}}"
+      - name: Process changed files
+        run: |
+          while read -r f; do
+                echo "Working with file $f"
+                echo "Generating ${f%.md}.html"
+                cat $f | \
+                docker run -i -v $(pwd):/data -w /data akiross/container-gpp -x -H -Iinclude | \
+                cat - include/metadata.yaml | \
+                docker run -i -v $(pwd):/data -w /data pandoc/core:2.9 -s -f \
+                  markdown+link_attributes+smart+multiline_tables+escaped_line_breaks \
+                  --data-dir=include \
+                  --template=bootstrap-template.html \
+                  --mathjax --toc -t html > ${f%.md}.html
+          done <<< "${{needs.changedfiles.outputs.md}}"
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages
+          folder: .
+          clean: false
