@@ -22,11 +22,11 @@ jobs:
           MY_STRING="${MY_STRING//$'\n'/'%0A'}"
           MY_STRING="${MY_STRING//$'\r'/'%0D'}"
           echo "::set-output name=md::$MY_STRING"
-          MY_STRING=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -e '^cv\/')
-          MY_STRING="${MY_STRING//'%'/'%25'}"
-          MY_STRING="${MY_STRING//$'\n'/'%0A'}"
-          MY_STRING="${MY_STRING//$'\r'/'%0D'}"
-          echo "::set-output name=cv::$MY_STRING"
+#          MY_STRING=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -e '^cv\/')
+#          MY_STRING="${MY_STRING//'%'/'%25'}"
+#          MY_STRING="${MY_STRING//$'\n'/'%0A'}"
+#          MY_STRING="${MY_STRING//$'\r'/'%0D'}"
+#          echo "::set-output name=cv::$MY_STRING"
   
   processing:
     runs-on: ubuntu-18.04
