@@ -66,14 +66,14 @@ jobs:
       - name: Process cv files
         run: |
           cat cv/bibliography.bib | \
-          docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"'
-          docker run -i tchumley/bibtex2html -nodoc -nokeys --no-keywords --style abbrv -q -d | \
-          docker run -i pandoc/core -f html -t markdown | \
-          sed -n '/------------------/q;p' | \
-          awk ' /^$/ { print; } /./ { printf("%s ", $0); }' | \
-          tac | \
-          nl -bt -s '. ' -w 1 | \
-          docker run -i pandoc/core -f markdown -t html  > include/bib-include.html
+            docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"'
+            docker run -i tchumley/bibtex2html -nodoc -nokeys --no-keywords --style abbrv -q -d | \
+            docker run -i pandoc/core -f html -t markdown | \
+            sed -n '/------------------/q;p' | \
+            awk ' /^$/ { print; } /./ { printf("%s ", $0); }' | \
+            tac | \
+            nl -bt -s '. ' -w 1 | \
+            docker run -i pandoc/core -f markdown -t html  > include/bib-include2.html
           cat cv/bibliography.bib | \
             docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"' --remove doi --remove eprint --remove url | \
             docker run -i tchumley/bibtex2html -nodoc -nokeys --no-keywords --style abbrv -q -d | \
