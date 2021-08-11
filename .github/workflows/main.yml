@@ -72,7 +72,9 @@ jobs:
             sed -n '/------------------/q;p' | \
             awk ' /^$/ { print; } /./ { printf("%s ", $0); }' | \
             tac | \
-            nl -bt -s '. ' -w 1 > include/bib-include.html
+            nl -bt -s '. ' -w 1 | \
+            docker run -i pandoc/core -f markdown -t html | \
+            sed 's/<ol/& reversed/' > include/bib-include.html
           cat cv/bibliography.bib | \
             docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"' --remove doi --remove eprint --remove url | \
             docker run -i tchumley/bibtex2html -nodoc -nokeys --no-keywords --style abbrv -q -d | \
