@@ -66,7 +66,7 @@ jobs:
       - name: Process cv files
         run: |
           cat cv/bibliography.bib | \
-            docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"' --remove doi --remove eprint --remove url | \
+            docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"' | \
             docker run -i tchumley/bibtex2html -nodoc -nokeys --no-keywords --style abbrv -q -d | \
             docker run -i pandoc/core -f html -t markdown | \
             sed -n '/------------------/q;p' | \
@@ -80,7 +80,7 @@ jobs:
             sed -n '/------------------/q;p' | \
             awk ' /^$/ { print; } /./ { printf("%s ", $0); }' | \
             tac | \
-            nl -bt -s '. ' -w 1 > include/bib-include-no-links.html
+            nl -bt -s '. ' -w 1 > include/bib-include-no-links.md
           cat docs/index.md | \
             docker run -i -v $(pwd):/data -w /data akiross/container-gpp -x -H -Iinclude | \
             cat - include/metadata.yaml | \
