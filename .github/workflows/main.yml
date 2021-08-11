@@ -65,9 +65,8 @@ jobs:
         uses: actions/checkout@v2
       - name: Process cv files
         run: |
-          cat cv/bibliography.bib
-#          cat cv/bibliography.bib | \
-#            docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"' | \
+          cat cv/bibliography.bib | \
+            docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"'
 #            docker run -i tchumley/bibtex2html -nodoc -nokeys --no-keywords --style abbrv -q -d | \
 #            docker run -i pandoc/core -f html -t markdown | \
 #            sed -n '/------------------/q;p' | \
