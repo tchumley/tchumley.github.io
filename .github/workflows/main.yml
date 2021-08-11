@@ -71,7 +71,7 @@ jobs:
             docker run -i pandoc/core -f html -t markdown | \
             sed -n '/------------------/q;p' | \
             awk ' /^$/ { print; } /./ { printf("%s ", $0); }' | \
-            tail -r | \
+            tac | \
             nl -bt -s '. ' -w 1 | \
             docker run -i pandoc/core -f markdown -t html | \
             sed 's/<ol/& reversed/' > include/bib-include.html
