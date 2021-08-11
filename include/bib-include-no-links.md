@@ -4,5 +4,5 @@
 4. []{#CCCF2018} T. Chumley, S. Cook, C. Cox, and R. Feres. Rolling and no-slip bouncing in cylinders. *J. Geom. Mech.*, 12(1):53\--84, 2020. 
 5. []{#ACMR2016} O. Aydogmus, T. Chumley, A. Matzavinos, and A. Roitershtein. Moran-type bounds for the fixation probability in a frequency-dependent Wright-Fisher model. *J. Math. Biol.*, 76(1):1\--35, 2018. 
 6. []{#CFZ2016} T. Chumley, R. Feres, and H.-K. Zhang. Diffusivity in multiple scattering systems. *Trans. Amer. Math. Soc.*, 368(1):109\--148, 2016. 
-7. []{#Chumley2013} T. Chumley. *Limit Theorems for Random Billiard Models*. PhD thesis, May 2013. 
+7. []{#Chumley2013} T. Chumley. *Limit Theorems for Random Billiard Models*. PhD thesis, 2013. 
 8. []{#CCF2013} T. Chumley, S. Cook, and R. Feres. From billiards to thermodynamics. *Comput. Math. Appl.*, 65(10):1596\--1613, 2013. 
