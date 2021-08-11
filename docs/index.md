@@ -16,7 +16,6 @@ I am an Assistant Professor of Mathematics at [Mount Holyoke College][MHC].  Pre
 
 ## Research
 
-
 I'm interested in probability theory, stochastic processes, and their applications.  In the past few years I've worked on problems that overlap with billiard dynamical systems, differential geometry, and statistical physics.    
 
 
