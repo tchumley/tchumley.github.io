@@ -97,4 +97,10 @@ jobs:
           branch: gh-pages
           folder: .
           clean: false
+      - name: Deploy bib-include
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: main
+          folder: include
+          target-folder: include
           
