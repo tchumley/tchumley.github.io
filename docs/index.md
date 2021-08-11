@@ -21,7 +21,7 @@ I'm interested in probability theory, stochastic processes, and their applicatio
 
 #### Students
 
-<!-- <img style="float: right;" src="assets/img/karen-young-me.jpg" width=125px class="img-responsive"> -->
+<img style="float: right;" src="assets/img/karen-young-me.jpg" width=125px class="img-responsive">
 
 -	In Spring 2021, I worked with Ruozhen Gong on the relationship between
 random billiard models and thermodynamics. Her work is documented in this
