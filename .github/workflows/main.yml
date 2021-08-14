@@ -99,6 +99,7 @@ jobs:
             docker run -i -v $(pwd):/data -w /data akiross/container-gpp -x -H -Iinclude | \
             docker run -i pandoc/latex -f markdown -t latex | \
             cat cv/before.tex - cv/after.tex > cv/cv.tex
+          cat cv/cv.tex
           docker run -v $(pwd)/cv:/target heichblatt/latexmk cv/cv.tex
           mv cv/cv.pdf docs/cv.pdf
       - name: Deploy
