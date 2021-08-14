@@ -65,6 +65,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Process cv files
         run: |
+          # build html file for bibliography in index.md
           cat cv/bibliography.bib | \
             docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"' | \
             docker run -i tchumley/bibtex2html -nodoc -nokeys --no-keywords --style abbrv -q -r | \
@@ -75,6 +76,7 @@ jobs:
             nl -bt -s '. ' -w 1 | \
             docker run -i pandoc/core -f markdown -t html | \
             sed 's/<ol/& reversed/' > include/bib-include.html
+          # build md file for bibliography in cv.pdf
           cat cv/bibliography.bib | \
             docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"' --remove doi --remove eprint --remove url | \
             docker run -i tchumley/bibtex2html -nodoc -nokeys --no-keywords --style abbrv -q -r | \
@@ -83,6 +85,7 @@ jobs:
             awk ' /^$/ { print; } /./ { printf("%s ", $0); }' | \
             tac | \
             nl -bt -s '. ' -w 1 > include/bib-include-no-links.md
+          # build index.html
           cat docs/index.md | \
             docker run -i -v $(pwd):/data -w /data akiross/container-gpp -x -H -Iinclude | \
             cat - include/metadata.yaml | \
@@ -91,6 +94,13 @@ jobs:
               --data-dir=include \
               --template=bootstrap-template.html \
               --mathjax --toc -t html > docs/index.html
+          # build cv.pdf
+          cat cv/cv.md | \
+            docker run -i -v $(pwd):/data -w /data akiross/container-gpp -x -H -Iinclude | \
+            docker run -i pandoc/latex -f markdown -t latex | \
+            cat cv/before.tex - cv/after.tex > cv/cv.tex
+          docker run -v $(pwd)/cv:/target heichblatt/latexmk cv/cv.tex
+          mv cv/cv.pdf docs/cv.pdf
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
