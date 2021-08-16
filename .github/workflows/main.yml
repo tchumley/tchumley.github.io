@@ -100,7 +100,7 @@ jobs:
             docker run -i -v $(pwd):/data -w /data pandoc/latex -f markdown -t latex | \
             cat cv/before.tex - cv/after.tex > cv/cv.tex
           cat cv/cv.tex
-          docker run -it -v $(pwd):/data -w /data thomasweise/docker-texlive-thin latexmk -pdf cv/cv.tex
+          docker run -i -v $(pwd):/data -w /data thomasweise/docker-texlive-thin latexmk -pdf cv/cv.tex
           mv cv/cv.pdf docs/cv.pdf
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.4
