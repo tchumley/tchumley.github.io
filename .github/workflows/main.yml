@@ -69,18 +69,18 @@ jobs:
           cat cv/bibliography.bib | \
             docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"' | \
             docker run -i tchumley/bibtex2html -nodoc -nokeys --no-keywords --style abbrv -q -r | \
-            docker run -i pandoc/core:2.9 -f html -t markdown | \
+            docker run -i pandoc/latex:2.9 -f html -t markdown | \
             sed -n '/------------------/q;p' | \
             awk ' /^$/ { print; } /./ { printf("%s ", $0); }' | \
             tac | \
             nl -bt -s '. ' -w 1 | \
-            docker run -i pandoc/core:2.9 -f markdown -t html | \
+            docker run -i pandoc/latex:2.9 -f markdown -t html | \
             sed 's/<ol/& reversed/' > include/bib-include.html
           # build md file for bibliography in cv.pdf
           cat cv/bibliography.bib | \
             docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"' --remove doi --remove eprint --remove url | \
             docker run -i tchumley/bibtex2html -nodoc -nokeys --no-keywords --style abbrv -q -r | \
-            docker run -i pandoc/core:2.9 -f html -t markdown | \
+            docker run -i pandoc/latex:2.9 -f html -t markdown | \
             sed -n '/------------------/q;p' | \
             awk ' /^$/ { print; } /./ { printf("%s ", $0); }' | \
             tac | \
@@ -89,7 +89,7 @@ jobs:
           cat docs/index.md | \
             docker run -i -v $(pwd):/data -w /data akiross/container-gpp -x -H -Iinclude | \
             cat - include/metadata.yaml | \
-            docker run -i -v $(pwd):/data -w /data pandoc/core:2.9 -s -f \
+            docker run -i -v $(pwd):/data -w /data pandoc/latex:2.9 -s -f \
               markdown+link_attributes+smart+multiline_tables+escaped_line_breaks \
               --data-dir=include \
               --template=bootstrap-template.html \
