@@ -101,6 +101,7 @@ jobs:
             cat cv/before.tex - cv/after.tex > cv/cv.tex
           cat cv/cv.tex
           docker run -i -v $(pwd):/data -w /data thomasweise/docker-texlive-thin latexmk -pdf -output-directory=docs cv/cv.tex
+          docker run -i -v $(pwd):/data -w /data thomasweise/docker-texlive-thin latexmk -pdf -output-directory=docs -c cv/cv.tex
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
