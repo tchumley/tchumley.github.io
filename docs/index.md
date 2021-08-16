@@ -86,7 +86,7 @@ Prior to coming to Mount Holyoke I taught:
 [Alliance]: https://www.math.ncsu.edu/alliance/
 [ISU]: https://math.iastate.edu
 [WU]: https://math.wustl.edu
-[cv]: assets/pdf/cv.pdf
+[cv]: cv.pdf
 [Math 101]: m101/
 [Math 102]: m102f16/
 [Math 211]: m211/
