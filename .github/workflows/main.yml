@@ -99,7 +99,6 @@ jobs:
             docker run -i -v $(pwd):/data -w /data akiross/container-gpp -x -H -Iinclude -Icv | \
             docker run -i -v $(pwd):/data -w /data pandoc/latex:2.9 -f markdown -t latex | \
             cat cv/before.tex - cv/after.tex > cv/cv.tex
-          cat cv/cv.tex
           docker run -i -v $(pwd):/data -w /data thomasweise/docker-texlive-thin latexmk -pdf -output-directory=docs cv/cv.tex
           docker run -i -v $(pwd):/data -w /data thomasweise/docker-texlive-thin latexmk -pdf -output-directory=docs -c cv/cv.tex
       - name: Deploy
