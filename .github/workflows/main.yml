@@ -96,7 +96,7 @@ jobs:
               --mathjax --toc -t html > docs/index.html
           # build cv.pdf
           cat cv/cv.md | \
-            docker run -i -v $(pwd):/data -w /data akiross/container-gpp -x -H -Iinclude | \
+            docker run -i -v $(pwd):/data -w /data akiross/container-gpp -x -H -Iinclude -Icv | \
             docker run -i -v $(pwd):/data -w /data pandoc/latex -f markdown -t latex | \
             cat cv/before.tex - cv/after.tex > cv/cv.tex
           cat cv/cv.tex
