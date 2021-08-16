@@ -69,18 +69,18 @@ jobs:
           cat cv/bibliography.bib | \
             docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"' | \
             docker run -i tchumley/bibtex2html -nodoc -nokeys --no-keywords --style abbrv -q -r | \
-            docker run -i pandoc/core -f html -t markdown | \
+            docker run -i pandoc/core:2.9 -f html -t markdown | \
             sed -n '/------------------/q;p' | \
             awk ' /^$/ { print; } /./ { printf("%s ", $0); }' | \
             tac | \
             nl -bt -s '. ' -w 1 | \
-            docker run -i pandoc/core -f markdown -t html | \
+            docker run -i pandoc/core:2.9 -f markdown -t html | \
             sed 's/<ol/& reversed/' > include/bib-include.html
           # build md file for bibliography in cv.pdf
           cat cv/bibliography.bib | \
             docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"' --remove doi --remove eprint --remove url | \
             docker run -i tchumley/bibtex2html -nodoc -nokeys --no-keywords --style abbrv -q -r | \
-            docker run -i pandoc/core -f html -t markdown | \
+            docker run -i pandoc/core:2.9 -f html -t markdown | \
             sed -n '/------------------/q;p' | \
             awk ' /^$/ { print; } /./ { printf("%s ", $0); }' | \
             tac | \
@@ -97,7 +97,7 @@ jobs:
           # build cv.pdf
           cat cv/cv.md | \
             docker run -i -v $(pwd):/data -w /data akiross/container-gpp -x -H -Iinclude -Icv | \
-            docker run -i -v $(pwd):/data -w /data pandoc/latex -f markdown -t latex | \
+            docker run -i -v $(pwd):/data -w /data pandoc/latex:2.9 -f markdown -t latex | \
             cat cv/before.tex - cv/after.tex > cv/cv.tex
           cat cv/cv.tex
           docker run -i -v $(pwd):/data -w /data thomasweise/docker-texlive-thin latexmk -pdf -output-directory=docs cv/cv.tex
