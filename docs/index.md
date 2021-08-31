@@ -81,6 +81,17 @@ Prior to coming to Mount Holyoke I taught:
 -	An [MCMC demonstration](https://tchumley.shinyapps.io/cryptography/) for crytography that I made for talk.
 -	Some notes that I've written for myself on [getting started with swarm2][], the high performance computing cluster at UMass.
 
+## Contact
+
+Email: tchumley
+Office: 423 Clapp Laboratory
+Telephone: 413-538-
+Mailing address:
+Department of Mathematics and Statistics
+Mount Holyoke College
+50 College St
+South Hadley, MA 01075
+
 
 [MHC]: https://www.mtholyoke.edu/acad/math
 [Alliance]: https://www.math.ncsu.edu/alliance/
