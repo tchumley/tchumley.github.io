@@ -83,14 +83,15 @@ Prior to coming to Mount Holyoke I taught:
 
 ## Contact
 
-**Email**: tchumley
-**Office**: 423 Clapp Laboratory
-**Telephone**: 413-538-
-**Mailing address**:
-Department of Mathematics and Statistics
-Mount Holyoke College
-50 College St
-South Hadley, MA 01075
+**Email**: tchumley   
+**Office**: 423 Clapp Laboratory   
+**Telephone**: 413-538-   
+**Mailing address**:   
+&nbsp;&nbsp;&nbsp;&nbsp;	Department of Mathematics and Statistics   
+&nbsp;&nbsp;&nbsp;&nbsp;	Mount Holyoke College   
+&nbsp;&nbsp;&nbsp;&nbsp;	50 College St   
+&nbsp;&nbsp;&nbsp;&nbsp;	South Hadley, MA 01075   
+
 
 
 [MHC]: https://www.mtholyoke.edu/acad/math
