@@ -85,7 +85,7 @@ Prior to coming to Mount Holyoke I taught:
 
 **Email**: tchumley   
 **Office**: 423 Clapp Laboratory   
-**Telephone**: 413-538-   
+**Telephone**: 413-538-2525   
 **Mailing address**:   
 &nbsp;&nbsp;&nbsp;&nbsp;	Department of Mathematics and Statistics   
 &nbsp;&nbsp;&nbsp;&nbsp;	Mount Holyoke College   
