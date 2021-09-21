@@ -1,4 +1,4 @@
-1. []{#CFG2020} T. Chumley, R. Feres, and L. A. Garcia German. Knudsen diffusivity in random billiards: spectrum, geometry, and computation. *to appear in SIAM J. Appl. Dyn. Syst.*, 2021. 
+1. []{#CFG2020} T. Chumley, R. Feres, and L. A. Garcia German. Knudsen diffusivity in random billiards: spectrum, geometry, and computation. *SIAM J. Appl. Dyn. Syst.*, 2021. 
 2. []{#CFW2016} T. Chumley, R. Feres, and M. Wallace. Exact discretization of harmonic tensors. *to appear in Potential Anal.*, 2021. 
 3. []{#CF2019} T. Chumley and R. Feres. Entropy production in random billiards. *Discrete Contin. Dyn. Syst.*, 41(3):1319\--1346, 2021. 
 4. []{#CCCF2018} T. Chumley, S. Cook, C. Cox, and R. Feres. Rolling and no-slip bouncing in cylinders. *J. Geom. Mech.*, 12(1):53\--84, 2020. 
