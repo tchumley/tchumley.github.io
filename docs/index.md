@@ -41,8 +41,8 @@ random billiard models and thermodynamics. Her work is documented in this
 
 #### Current courses
 
-- Math 102: Calculus II (Fall 2021)
-- Math 301: Real Analysis (Fall 2021)
+- [Math 102][]: Calculus II (Fall 2021)
+- [Math 301][]: Real Analysis (Fall 2021)
 
 #### Past courses
 
@@ -100,7 +100,7 @@ Prior to coming to Mount Holyoke I taught:
 [WU]: https://math.wustl.edu
 [cv]: cv.pdf
 [Math 101]: m101/
-[Math 102]: m102f16/
+[Math 102]: m102/
 [Math 211]: m211/
 [Math 232]: m232/
 [Math 301]: m301/
