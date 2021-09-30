@@ -60,7 +60,7 @@ random billiard models and thermodynamics. Her work is documented in this
  -->
  <!-- 
 - [Math 301][]: Real Analysis (Fall 2020)
- -->
+ -->  
 
 Prior to coming to Mount Holyoke I taught:
 
