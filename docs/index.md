@@ -114,7 +114,7 @@ Prior to coming to Mount Holyoke I taught:
 [summer research programs]: misc/programs
 [summer activities]: misc/summer-activities
 [Ruozhen Gong]: assets/pdf/Independent_Study_Report_RuozhenGong.pdf
-[ESR]: assets/pdf/Summer_2021_research_report.pdf
+[ESR]: /pdf/Summer_2021_research_report.pdf
 [Nicole Andrews]: assets/pdf/Nicole_Random_Billiards.pdf
 [Jessica Feng web]: https://sites.google.com/mtholyoke.edu/tim-jessica-18-fall/
 [Karen Young talk]: assets/pdf/karen-young-talk.pdf
