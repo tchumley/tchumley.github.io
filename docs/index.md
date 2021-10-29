@@ -23,6 +23,8 @@ I'm interested in probability theory, stochastic processes, and their applicatio
 
 <!-- <img style="float: right;" src="assets/img/karen-young-me.jpg" width=125px class="img-responsive"> -->
 
+-	In Summer 2021, I worked with Ruozhen Gong, Emily Rosaci, and Susan Wang on a project involving billiards, probability, and their interplay.
+	Our main objects of study were polygonal billiard tables and some related Markov chains. Their work was written up in a [report][ESR].
 -	In Spring 2021, I worked with Ruozhen Gong on the relationship between
 random billiard models and thermodynamics. Her work is documented in this
 [summary report][Ruozhen Gong].
@@ -112,6 +114,7 @@ Prior to coming to Mount Holyoke I taught:
 [summer research programs]: misc/programs
 [summer activities]: misc/summer-activities
 [Ruozhen Gong]: assets/pdf/Independent_Study_Report_RuozhenGong.pdf
+[ESR]: assets/pdf/Summer_2021_research_report.pdf
 [Nicole Andrews]: assets/pdf/Nicole_Random_Billiards.pdf
 [Jessica Feng web]: https://sites.google.com/mtholyoke.edu/tim-jessica-18-fall/
 [Karen Young talk]: assets/pdf/karen-young-talk.pdf
