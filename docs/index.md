@@ -118,6 +118,6 @@ Prior to coming to Mount Holyoke I taught:
 [Nicole Andrews]: assets/pdf/Nicole_Random_Billiards.pdf
 [Jessica Feng web]: https://sites.google.com/mtholyoke.edu/tim-jessica-18-fall/
 [Karen Young talk]: assets/pdf/karen-young-talk.pdf
-[getting started with swarm2]: https://www.mtholyoke.edu/~tchumley/misc/swarm2/
+[getting started with swarm2]: /misc/swarm2/
 [Lathisms 2020 calendar]: https://www.lathisms.org/calendar-2020/tim-chumley
 
