@@ -43,6 +43,8 @@ A survey was sent asking majors, minors, and members of the math/stat club to le
 
 **Lea Sleiman '22** interned at [Venture for America](https://ventureforamerica.org/).
 
+[![Lea Sleiman][]][Lea Sleiman]   <!--   -->
+
 
 > Position: Data Specialist Intern
 >
@@ -71,5 +73,7 @@ We also specifically explored the channel with a triangular microstructure, and 
 -	[Summer 2019 activities](./2019)
 -	[Summer 2018 activities](./2018)
 
+
+[Lea Sleiman]: lea.jpg {class="img-responsive" width=300px style="float: right;"}
 
 
