@@ -9,6 +9,7 @@ jobs:
     outputs:
       md: ${{ steps.changes.outputs.md }}
       cv: ${{ steps.changes.outputs.cv }}
+      pdf: ${{ steps.changes.outputs.pdf }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
@@ -23,6 +24,8 @@ jobs:
           MY_STRING="${MY_STRING//$'\r'/'%0D'}"
           echo "::set-output name=md::$MY_STRING"
           echo "::set-output name=cv::$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -o '^cv\/.*' | xargs)"
+          echo "::set-output name=pdf::$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -o '^docs\/.*\.pdf' | xargs)"
+
   
   processing:
     runs-on: ubuntu-18.04
@@ -114,3 +117,17 @@ jobs:
           folder: include
           target-folder: include
           
+  processingpdf:
+    runs-on: ubuntu-18.04
+    needs: changedfiles
+    if: ${{needs.changedfiles.outputs.pdf}}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages
+          folder: .
+          clean: false
+
