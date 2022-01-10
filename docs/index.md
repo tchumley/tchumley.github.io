@@ -108,7 +108,7 @@ Prior to coming to Mount Holyoke I taught:
 [Math 241]: m241/
 [Math 301]: m301/
 [Math 333]: m333/
-[Math 339SP]: m339/
+[Math 339SP]: m339sp/
 [Math 342]: m342/
 [Stat 395]: s395/
 [Math genealogy]: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=200961
