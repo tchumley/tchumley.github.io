@@ -23,8 +23,12 @@ I'm interested in probability theory, stochastic processes, and their applicatio
 
 <!-- <img style="float: right;" src="assets/img/karen-young-me.jpg" width=125px class="img-responsive"> -->
 
--	In Summer 2021, I worked with Ruozhen Gong, Emily Rosaci, and Susan Wang on a project involving billiards, probability, and their interplay.
-	Our main objects of study were polygonal billiard tables and some related Markov chains. Their work was written up in a [report][ESR].
+-	In Fall 2021, I worked with Emily Rosaci and Susan Wang, continuing their work from Summer 2021. 
+	They created an interactive [Shiny app on random billiards][].
+-	In Summer 2021, I worked with Ruozhen Gong, Emily Rosaci, and Susan Wang on a 
+	project involving billiards, probability, and their interplay.
+	Our main objects of study were polygonal billiard tables and some related Markov chains. 
+	Their work was written up in a [report][ESR].
 -	In Spring 2021, I worked with Ruozhen Gong on the relationship between
 random billiard models and thermodynamics. Her work is documented in this
 [summary report][Ruozhen Gong].
@@ -82,6 +86,7 @@ Prior to coming to Mount Holyoke I taught:
 -	Mount Holyoke math/stat student [summer activities][].
 -	An [MCMC demonstration](https://tchumley.shinyapps.io/cryptography/) for crytography that I made for talk.
 -	Some notes that I've written for myself on [getting started with swarm2][], the high performance computing cluster at UMass.
+-	I've made a page listing [Five College equivalent math/stat courses][].
 
 ## Contact
 
@@ -121,4 +126,5 @@ Prior to coming to Mount Holyoke I taught:
 [Karen Young talk]: assets/pdf/karen-young-talk.pdf
 [getting started with swarm2]: /misc/swarm2/
 [Lathisms 2020 calendar]: https://www.lathisms.org/calendar-2020/tim-chumley
-
+[Five College equivalent math/stat courses]: misc/course-equivalents
+[Shiny app on random billiards]: https://olypys-yuxuan-wang.shinyapps.io/Billiards_Probability_and_their_Interplay/
