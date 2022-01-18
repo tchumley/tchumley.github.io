@@ -72,6 +72,8 @@ are equivalent versions of our class. They fulfill the requirement.
 
 ### 200-level required classes
 
+The courses below are required for either the math or stat major.
+
 #### Math 211 Linear Algebra
 
 - Math 235 at UMass
