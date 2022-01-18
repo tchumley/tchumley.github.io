@@ -10,6 +10,8 @@ footer: Last modified <#exec date>
 This page is a reference for students and advisors at Mount Holyoke
 who are looking for courses across the Five Colleges that can serve
 as substitutes for math/stat major courses.
+Please note that it's a work in progress and not all equivalent
+courses are listed. 
 
 
 ### 300-level required classes
@@ -66,5 +68,15 @@ are equivalent versions of our class. They fulfill the requirement.
 - Stat 516 at UMass
 - Math/Stat 370 at Amherst College
 - Mth 320 at Smith College 
+
+
+### 200-level required classes
+
+#### Math 211 Linear Algebra
+
+- Math 235 at UMass
+- Math 271 or Math 272 at Amherst College are both good replacements. 
+	Both feature proofs and applications but each has its own respective emphasis.
+- Mth 211 at Smith College
 
 
