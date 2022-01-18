@@ -128,3 +128,5 @@ Prior to coming to Mount Holyoke I taught:
 [Lathisms 2020 calendar]: https://www.lathisms.org/calendar-2020/tim-chumley
 [Five College equivalent math/stat courses]: misc/course-equivalents
 [Shiny app on random billiards]: https://olypys-yuxuan-wang.shinyapps.io/Billiards_Probability_and_their_Interplay/
+
+
