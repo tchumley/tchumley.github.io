@@ -53,15 +53,15 @@ random billiard models and thermodynamics. Her work is documented in this
 
 #### Past courses
 
-- [Math 101][]: Calculus I (Spring 2019)
+- Math 101: Calculus I (Spring 2019)
 - [Math 102][]: Calculus II (Fall 2016, 2021)
-- [Math 211][]: Linear Algebra (Spring 2017)
-- [Math 232][]: Discrete Math (Fall 2018)
+- Math 211: Linear Algebra (Spring 2017)
+- Math 232: Discrete Math (Fall 2018)
 - [Math 301][]: Real Analysis (Fall 2020, 2021)
-- [Math 333][]: Differential Equations (Spring 2018)
+- Math 333: Differential Equations (Spring 2018)
 - [Math 339SP][]: Stochastic Processes (Spring 2017, 2018, 2019)
-- [Math 342][]: Probability (Fall 2016, 2017, 2018; Spring 2021)
-- [Stat 395][]: Independent study, Statistical Analysis of Networks (Fall 2017)
+- Math 342: Probability (Fall 2016, 2017, 2018; Spring 2021)
+- Stat 395: Independent study, Statistical Analysis of Networks (Fall 2017)
 
 <!-- 
 - [Math 339SP][]: Stochastic Processes (Spring 2017, 2018, 2019)
