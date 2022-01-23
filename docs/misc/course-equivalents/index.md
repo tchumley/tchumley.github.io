@@ -34,8 +34,10 @@ abstract algebra, and we offer two options within our department to
 fulfill this requirement: Math 312GT (a course in group theory) and
 Math 312RT (a course in ring theory). They can be taken in either order
 and only one needs to be taken to fulfill the major, but anyone is allowed
-to take both. At Amherst and Smith, one course is offered that combines topics
-from our two semesters. At UMass, a two semester sequence like ours is offered
+to take both. At Amherst, one course is offered that combines topics from 
+our two semesters.  Smith offers a first course that is primarily group theory, Math 233, 
+and sometimes offers Galois Theory, which covers rings and fields. 
+At UMass, a two semester sequence like ours is offered
 but Math 411 (group theory) must be taken first. Any of these options fulfills
 our algebra requirement.
 
