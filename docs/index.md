@@ -63,10 +63,6 @@ random billiard models and thermodynamics. Her work is documented in this
 - Math 342: Probability (Fall 2016, 2017, 2018; Spring 2021)
 - Stat 395: Independent study, Statistical Analysis of Networks (Fall 2017)
 
-<!-- 
-- [Math 339SP][]: Stochastic Processes (Spring 2017, 2018, 2019)
- -->
-
 
 Prior to coming to Mount Holyoke I taught:
 
