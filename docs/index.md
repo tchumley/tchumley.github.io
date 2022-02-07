@@ -23,9 +23,9 @@ I'm interested in probability theory, stochastic processes, and their applicatio
 
 <!-- <img style="float: right;" src="assets/img/karen-young-me.jpg" width=125px class="img-responsive"> -->
 
--	In Fall 2021, I worked with Emily Rosaci and Susan Wang, continuing their work from Summer 2021. 
+-	In Fall 2021, I worked with Emily Rosaci and Yuxuan (Susan) Wang, continuing their work from Summer 2021. 
 	They created an interactive [Shiny app on random billiards][].
--	In Summer 2021, I worked with Ruozhen Gong, Emily Rosaci, and Susan Wang on a 
+-	In Summer 2021, I worked with Ruozhen Gong, Emily Rosaci, and Yuxuan (Susan) Wang on a 
 	project involving billiards, probability, and their interplay.
 	Our main objects of study were polygonal billiard tables and some related Markov chains. 
 	Their work was written up in a [report][ESR].
