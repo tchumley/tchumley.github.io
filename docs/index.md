@@ -78,8 +78,7 @@ Prior to coming to Mount Holyoke I taught:
 
 -	I was interviewed by the [AMS Mathematical Moments][] program about my research
 	on billiards and thermodynamics.
--	I am honored to have appeared in the [Lathisms 2020 calendar][]. I was also featured 					
-	in an [MAA Focus article](http://digitaleditions.walsworthprintgroup.com/publication/?m=7656&i=677122&p=46) 
+-	I am honored to have appeared in the [Lathisms 2020 calendar][]. I was also featured in an [MAA Focus article](http://digitaleditions.walsworthprintgroup.com/publication/?m=7656&i=677122&p=46) 
 	about Lathisms.
 -	The image above is a visualization of my [Math genealogy][].
 -	Information on [summer research programs][] for math/stat students.
