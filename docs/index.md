@@ -76,7 +76,11 @@ Prior to coming to Mount Holyoke I taught:
 
 [![](assets/img/chumley.png){width=300px class="img-responsive center-block"}](assets/img/chumley.png) \
 
--	I am honored to have appeared in the [Lathisms 2020 calendar][]. I was also featured in an [MAA Focus article](http://digitaleditions.walsworthprintgroup.com/publication/?m=7656&i=677122&p=46) about Lathisms.
+-	I was interviewed by the [AMS Mathematical Moments][] program about my research
+	on billiards and thermodynamics.
+-	I am honored to have appeared in the [Lathisms 2020 calendar][]. I was also featured 					
+	in an [MAA Focus article](http://digitaleditions.walsworthprintgroup.com/publication/?m=7656&i=677122&p=46) 
+	about Lathisms.
 -	The image above is a visualization of my [Math genealogy][].
 -	Information on [summer research programs][] for math/stat students.
 -	Mount Holyoke math/stat student [summer activities][].
@@ -124,5 +128,6 @@ Prior to coming to Mount Holyoke I taught:
 [Lathisms 2020 calendar]: https://www.lathisms.org/calendar-2020/tim-chumley
 [Five College equivalent math/stat courses]: misc/course-equivalents
 [Shiny app on random billiards]: https://olypys-yuxuan-wang.shinyapps.io/Billiards_Probability_and_their_Interplay/
+[AMS Mathematical Moments]: https://www.ams.org/publicoutreach/mathmoments/mm160-billiards
 
 
