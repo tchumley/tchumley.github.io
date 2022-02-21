@@ -127,7 +127,7 @@ If you're interested, you may apply to Google's BOLD Immersion Program, a 3-day 
 
 ### Archive
 
--	[Summer 2018 activites](./2018)
+-	[Summer 2018 activites](/misc/summer-activities/2018)
 
 [survey]: https://forms.gle/ir7aJCPskEduJB4L7
 [Katerina Alvarez]: katerina.jpg {class="img-responsive" width=300px style="float: right;"}
