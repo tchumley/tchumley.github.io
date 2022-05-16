@@ -4,6 +4,14 @@ Teaching {#teaching .unnumbered}
 Mount Holyoke College {#mount-holyoke-college .unnumbered}
 ---------------------
 
+-	Math 241, Dynamical Systems, Spring 2022.
+
+-	Math 339SP/Stat 344, Stochastic Processes, Spring 2022.
+
+-	Math 102, Calculus II, Fall 2021.
+
+-	Math 301, Real Analysis, Fall 2021.
+
 -	Math 342, Probability (2 sections), Spring 2021.
 
 -	Math 395, Independent study in Billiards and Thermodynamics (1 student), Spring 2021.
@@ -22,7 +30,7 @@ Mount Holyoke College {#mount-holyoke-college .unnumbered}
 
 -	Math 395, Independent study in Random Billiards (1 student), Fall 2018.
 
--	Math 339SP, Stochastic Processes, Spring 2018.
+-	Math 339SP/Stat 344, Stochastic Processes, Spring 2018.
 	
 -	Math 333, Differential Equations, Spring 2018.
 
