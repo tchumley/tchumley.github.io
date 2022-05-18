@@ -47,9 +47,7 @@ random billiard models and thermodynamics. Her work is documented in this
 
 #### Current courses
 
-- [Math 241][]: Dynamical Systems (Spring 2022)
-- [Math 339SP][]: Stochastic Processes (Spring 2022)
-
+- Math 203: Calculus III (Fall 2022)
 
 #### Past courses
 
@@ -57,9 +55,10 @@ random billiard models and thermodynamics. Her work is documented in this
 - [Math 102][]: Calculus II (Fall 2016, 2021)
 - Math 211: Linear Algebra (Spring 2017)
 - Math 232: Discrete Math (Fall 2018)
+- [Math 241][]: Dynamical Systems (Spring 2022)
 - [Math 301][]: Real Analysis (Fall 2020, 2021)
 - Math 333: Differential Equations (Spring 2018)
-- [Math 339SP][]: Stochastic Processes (Spring 2017, 2018, 2019)
+- [Math 339SP/Stat 344][]: Stochastic Processes (Spring 2017, 2018, 2019, 2022)
 - Math 342: Probability (Fall 2016, 2017, 2018; Spring 2021)
 - Stat 395: Independent study, Statistical Analysis of Networks (Fall 2017)
 
