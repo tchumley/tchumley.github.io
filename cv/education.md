@@ -1,6 +1,6 @@
 Education {.unnumbered}
 =========
 
--   Ph.D. Mathematics, Washington University in St. Louis, 2013
--   M.S. Mathematics, Marquette University, 2007
--   B.S. Computer Science, Mathematics, Marquette University, 2005
+-   Washington University in St. Louis, Ph.D. in Mathematics, 2013
+-   Marquette University, M.S. in Mathematics, 2007
+-   Marquette University, B.S. in Computer Science, Mathematics, 2005
