@@ -4,7 +4,7 @@
 
 <#include teaching.md>
 
-Research Articles {.unnumbered} 
+Research Articles {.unnumbered}  
 =================
 
 <#include bib-include-no-links.md> 
