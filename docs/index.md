@@ -11,7 +11,7 @@ nav:
 	-	link: "[Miscellaneous](#miscellaneous)"
 ---
 
-I am an Assistant Professor of Mathematics at [Mount Holyoke College][MHC].  Previously, I was an NSF Alliance for Building Faculty Diversity Postdoctoral Fellow at [Iowa State University][ISU].  Before that, I got my PhD in mathematics at [Washington University in St. Louis][WU]. See my [cv][] for more details.
+I am an Associate Professor of Mathematics at [Mount Holyoke College][MHC].  Previously, I was an NSF Alliance for Building Faculty Diversity Postdoctoral Fellow at [Iowa State University][ISU].  Before that, I got my PhD in mathematics at [Washington University in St. Louis][WU]. See my [cv][] for more details.
 
 
 ## Research
@@ -47,12 +47,15 @@ random billiard models and thermodynamics. Her work is documented in this
 
 #### Current courses
 
+- Math 102: Calculus II (Fall 2022)
 - Math 203: Calculus III (Fall 2022)
 
 #### Past courses
 
 - Math 101: Calculus I (Spring 2019)
+<!-- 
 - [Math 102][]: Calculus II (Fall 2016, 2021)
+ -->
 - Math 211: Linear Algebra (Spring 2017)
 - Math 232: Discrete Math (Fall 2018)
 - [Math 241][]: Dynamical Systems (Spring 2022)
