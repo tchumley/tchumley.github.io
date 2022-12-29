@@ -39,7 +39,7 @@ random billiard models and thermodynamics. Her work is documented in this
 
 #### Papers
 
-<#include bib-include.html> 
+<#include bib-include.html>  
 
 ## Teaching
 
