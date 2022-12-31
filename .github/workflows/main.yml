@@ -23,8 +23,8 @@ jobs:
           MY_STRING="${MY_STRING//$'\n'/'%0A'}"
           MY_STRING="${MY_STRING//$'\r'/'%0D'}"
           echo "md=$MY_STRING" >> $GITHUB_OUTPUT
-#          echo "name=cv::$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -o '^cv\/.*' | xargs)" >> $GITHUB_OUTPUT
-#          echo "name=pdf::$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -o '^docs\/.*\.pdf' | xargs)" >> $GITHUB_OUTPUT
+          echo "cv=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -o '^cv\/.*' | xargs)" >> $GITHUB_OUTPUT
+          echo "pdf=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -o '^docs\/.*\.pdf' | xargs)" >> $GITHUB_OUTPUT
 
   
   processing:
