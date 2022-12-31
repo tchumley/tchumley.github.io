@@ -48,7 +48,7 @@ random billiard models and thermodynamics. Her work is documented in this
 #### Current courses
 
 - [Math 203][]: Calculus III (Spring 2023)
-- [Math 301][]: Real Analysis (Spring 2023)
+- [Math 301][]: Real Analysis (Spring 2023) 
 
 #### Past courses
 
