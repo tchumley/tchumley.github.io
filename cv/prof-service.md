@@ -1,6 +1,8 @@
 Professional Service {.unnumbered}
 =======================
 
+-	Member, Steering Committee for the Hudson River Undergraduate Mathematics Conference
+-	Member, Prize Committee for MAA Halmos-Ford Prize, 2022-2024
 -	Co-organizer for Special Session at AMS Fall Eastern Sectional Meeting, October 2022
 -	Panelist for Applied Math program, Division of Mathematical Sciences, NSF, March 2022
 -	Co-organizer, BIRS Oaxaca workshop on Frontiers in Billiard Dynamics, June 2021
