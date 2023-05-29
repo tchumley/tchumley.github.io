@@ -3,6 +3,11 @@ Presentations {#invited-presentations .unnumbered}
 
 ### Invited {.unnumbered}
 
+- 	Joint Mathematics meetings, AIM Special Session on Little School Dynamics: Cool Dynamics Research by Researchers at PUIs,
+	January 2023
+
+-   AMS Eastern Sectional Meeting, Special Session on Connections Between Theoretical and Applied Dynamical Systems: A Session in Honor of the 60th Birthdays of Renato Feres and Boris Hasselblatt, October 2022
+
 -	Tarleton State University, Colloquium, September 2019
 
 -	SIAM Conference on Applications of Dynamical systems, Minisymposium on Thermodynamic Laws from Nonequilibrium Dynamics, May 2019

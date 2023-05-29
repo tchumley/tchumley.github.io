@@ -1,6 +1,10 @@
 Selected Conference Participation {#selected-conference-participation .unnumbered}
 =================================
 
+-	Joint Mathematics Meetings, Boston, January 2023.
+
+-   AMS Eastern Sectional Meeting, Amherst, October 2022.
+
 -	Northeast Conference on Dynamical Systems, University of Massachusetts Amherst, November 2019.
 
 -	Illustrating Probability and Dynamics workshop, ICERM, November 2019.

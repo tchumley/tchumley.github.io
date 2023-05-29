@@ -7,7 +7,7 @@
 Research Articles {.unnumbered} 
 =================
 
-<#include bib-include-no-links.md> 
+<#include bib-include-no-links.md>
 
 <#include talks.md>
 
