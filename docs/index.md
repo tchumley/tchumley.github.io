@@ -23,6 +23,8 @@ I'm interested in probability theory, stochastic processes, and their applicatio
 
 <!-- <img style="float: right;" src="assets/img/karen-young-me.jpg" width=125px class="img-responsive"> -->
 
+-   In Summer 2023, I co-advised Cathy Liu, Sophie Su, and Boxiao Zhu with Alanna Hoyer-Leitzel on two projects related to stochastic differential equations with noise derived from a compound Poisson process. The group studied the problem of analyzing exit time distributions in the context of the [FitzHugh-Nagumo model][LSZ-1] of neuron activity and an [immunological model][LSZ-2] for sudden viral exposure.
+-   In Spring 2023, I co-advised Cathy Liu with Alanna Hoyer-Leitzel on a numerical study of a system differential equations with impulsive stochastic perturbations used to model the effective of sudden viral exposures on the human immune system. Some preliminary results were summarized in this [slide presentation][Cathy Liu].
 -	In Fall 2021, I worked with Emily Rosaci and Yuxuan (Susan) Wang, continuing their work from Summer 2021. 
 	They created an interactive [Shiny app on random billiards][].
 -	In Summer 2021, I worked with Ruozhen Gong, Emily Rosaci, and Yuxuan (Susan) Wang on a 
@@ -47,18 +49,17 @@ random billiard models and thermodynamics. Her work is documented in this
 
 #### Current courses
 
-- [Math 203][]: Calculus III (Spring 2023)
-- [Math 301][]: Real Analysis (Spring 2023)
+I am on sabbatical in Fall 2023.
 
 #### Past courses
 
 - Math 101: Calculus I (Spring 2019)
 - [Math 102][]: Calculus II (Fall 2016, 2021, 2022)
-- Math 203: Calculus III (Fall 2022)
+- [Math 203][]: Calculus III (Fall 2022, Spring 2023)
 - Math 211: Linear Algebra (Spring 2017)
 - Math 232: Discrete Math (Fall 2018)
 - [Math 241][]: Dynamical Systems (Spring 2022)
-- Math 301: Real Analysis (Fall 2020, 2021)
+- [Math 301][]: Real Analysis (Fall 2020, 2021, Spring 2023)
 - Math 333: Differential Equations (Spring 2018)
 - [Math 339SP/Stat 344][]: Stochastic Processes (Spring 2017, 2018, 2019, 2022)
 - Math 342: Probability (Fall 2016, 2017, 2018; Spring 2021)
@@ -120,6 +121,9 @@ Prior to coming to Mount Holyoke I taught:
 [Math genealogy]: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=200961
 [summer research programs]: misc/programs
 [summer activities]: misc/summer-activities
+[Cathy Liu]: /pdf/Cathy_Liu_Spring_2023.pdf
+[LSZ-1]: /pdf/FitzHugh_Nagumo_model_poster.pdf
+[LSZ-2]: /pdf/Immuno_epidemiological_model_poster.pdf
 [Ruozhen Gong]: assets/pdf/Independent_Study_Report_RuozhenGong.pdf
 [ESR]: /pdf/Summer_2021_research_report.pdf
 [Nicole Andrews]: assets/pdf/Nicole_Random_Billiards.pdf
