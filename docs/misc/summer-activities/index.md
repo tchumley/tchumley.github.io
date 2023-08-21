@@ -7,7 +7,7 @@ footer: Last modified <#exec date>
 
 # Math/Stat/DS student summers
 
-Each summer Mount Holyoke math/stat/ds students are involved in a variety of activities.  Over summer 2023, students participated in research, internships, and  summer schools at academic institutions, and in industry.  The department is proud of the diversity of interests and everyone's accomplishments. 
+Each summer Mount Holyoke math/stat/ds students are involved in a variety of activities.  Over summer 2023, students participated in research and internships at academic institutions, government agencies, and in industry.  The department is proud of the diversity of interests and everyone's accomplishments. 
 
 A survey was sent asking majors, minors, and members of the math/stat club to let us know about the programs they participated and to pass on any advice to students looking for things to do in future summers.  Their responses are recorded below.
 
