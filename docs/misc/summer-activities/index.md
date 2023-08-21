@@ -116,12 +116,12 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 -	[Summer 2018 activities](/misc/summer-activities/2018)
 
 
-[Midge Hartshorn]: midge.jpg {class="img-responsive" width=300px style="float: left;"}
-[Elliot Haugen]: elliot.jpg {class="img-responsive" width=300px style="float: right;"}
+[Midge Hartshorn]: midge.jpg {class="img-responsive" width=300px style="float: right;"}
+[Elliot Haugen]: elliot.jpg {class="img-responsive" height=200px style="float: right;"}
 [Assem Amangeldina]: assem.jpg {class="img-responsive" width=300px style="float: right;"}
-[Kylee Miller]: kylee.jpg {class="img-responsive" width=300px style="float: left;"}
+[Kylee Miller]: kylee.jpg {class="img-responsive" height=300px style="float: right;"}
 [Sophie Coyne]: sophie.jpg {class="img-responsive" width=300px style="float: right;"}
-[Cat Barbour]: cat.jpg {class="img-responsive" width=300px style="float: left;"}
-[Hollis Welling]: hollis.jpg {class="img-responsive" width=300px style="float: right;"}
+[Cat Barbour]: cat.jpg {class="img-responsive" width=300px style="float: right;"}
+[Hollis Welling]: hollis.jpg {class="img-responsive" height=300px style="float: right;"}
 
 
