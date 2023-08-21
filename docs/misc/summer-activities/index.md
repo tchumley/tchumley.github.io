@@ -106,7 +106,7 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 
 > My group was the Stat group, which tried to develop a new linear-rank-type test for interval-censored survival data based on the proportional odds model. Since I am now double majoring in Mathematics and Stat-Econ, this research is closely related to my majors. This summer research gave me a new impression of what research was and allowed me to see what the research would be like in a "pure" stat field, which strengthened my thinking of applying for graduate school.
 >
-> Advice: Be well prepared for the REU application; it will be much more competitive than I previously expected. 
+> Advice: Be well prepared for the REU application; it will be much more competitive than I previously expected.
 
 
 ### Archive
