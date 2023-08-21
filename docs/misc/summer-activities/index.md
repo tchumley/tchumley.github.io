@@ -120,6 +120,7 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 
 ### Archive
 
+-	[Summer 2022 activities](/misc/summer-activities/2022)
 -	[Summer 2021 activities](/misc/summer-activities/2021)
 -	[Summer 2019 activities](/misc/summer-activities/2019)
 -	[Summer 2018 activities](/misc/summer-activities/2018)
