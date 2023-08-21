@@ -91,7 +91,16 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 
 > I conducted research on differences in grey matter volumes by sex and alcohol use disorder status.  I established the neuroimaging analysis procedure and worked on automating the processing of structural MRIs. I utilized MATLAB, Python, and RStudio. I learned new statistical methods and softwares. I plan on continuing neuroimaging research  when I return to NIH after I graduate for my research fellowship through UGSP.
 >
-> Advice: Look into the NIH Summer Reseaarch Programs! There are lots of math and stat heavy research being done. Be specific on what type of research you are interested in and examples of people doing it at the NIH. 
+> Advice: Look into the NIH Summer Reseaarch Programs! There are lots of math and stat heavy research being done. Be specific on what type of research you are interested in and examples of people doing it at the NIH.
+
+**Bea Rodriguez '24** worked as a Consultant for the company [TechDNA](https://www.tech-dna.net/).
+
+[![Bea Rodriguez][]][Bea Rodriguez]   <!--   -->
+
+> I reprogrammed a tool they were using to be faster and have more options. I learned a lot about coding conventions, standards, and python multiprocessing. Tragically, it was all mostly computer science related, not very mathematically challenging.
+>
+> Advice: The point of summer jobs is to learn! Whether it's an internship or a consultantship or whatever, as long as you're honest in your skills and experience *don't* be afraid to apply and search for jobs that are outside of your depth. Companies know what they want, and it's usually cheaper for them to hire an inexperienced but smart and trustable intern to work on a project than pay a real company to do it for them. The worst they can say is no! Always apply (at the very least, you'll get experience with interviews).
+
 
 **Hollis Welling '25** participated in the [Girls Who Invest Summer Intensive Program](https://www.girlswhoinvest.org/sip).
 
@@ -123,5 +132,6 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 [Sophie Coyne]: sophie.jpg {class="img-responsive" width=300px style="float: right;"}
 [Cat Barbour]: cat.jpg {class="img-responsive" width=300px style="float: right;"}
 [Hollis Welling]: hollis.jpg {class="img-responsive" width=200px style="float: right;"}
+[Bea Rodriguez]: bea.jpg {class="img-responsive" width=300px style="float: right;"}
 
 
