@@ -124,3 +124,4 @@ A survey was sent asking majors, minors, and members of the math/stat club to le
 [Cat Barbour]: cat.jpg {class="img-responsive" width=300px style="float: right;"}
 [Hollis Welling]: hollis.jpg {class="img-responsive" width=300px style="float: right;"}
 
+
