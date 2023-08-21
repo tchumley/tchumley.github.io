@@ -19,13 +19,13 @@ jobs:
         id: changes
         run: |
           MY_STRING=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -o '^docs\/.*\.md' | while read -r line; do echo "$line"; done)
-        # MY_STRING="${MY_STRING//'%'/'%25'}"
-        # MY_STRING="${MY_STRING//$'\n'/'%0A'}"
-        # MY_STRING="${MY_STRING//$'\r'/'%0D'}"
-        # echo "md=$MY_STRING" >> $GITHUB_OUTPUT
+          # MY_STRING="${MY_STRING//'%'/'%25'}"
+          # MY_STRING="${MY_STRING//$'\n'/'%0A'}"
+          # MY_STRING="${MY_STRING//$'\r'/'%0D'}"
+          # echo "md=$MY_STRING" >> $GITHUB_OUTPUT
           {
             echo 'md<<EOF'
-            echo '$MY_STRING'
+            git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -o '^docs\/.*\.md' | while read -r line; do echo "$line"; done
             echo EOF
           } >> $GITHUB_OUTPUT
           echo "cv=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -o '^cv\/.*' | xargs)" >> $GITHUB_OUTPUT
