@@ -5,75 +5,123 @@ toc: false
 footer: Last modified <#exec date>
 ---
 
-# Math/Stat student summers
+# Math/Stat/DS student summers
 
-Each summer Mount Holyoke math/stat students are involved in a variety of activities.  Over summer 2021, students participated in research, internships, and  summer schools at academic institutions, and in industry.  The department is proud of the diversity of interests and everyone's accomplishments. 
+Each summer Mount Holyoke math/stat/ds students are involved in a variety of activities.  Over summer 2023, students participated in research, internships, and  summer schools at academic institutions, and in industry.  The department is proud of the diversity of interests and everyone's accomplishments. 
 
 A survey was sent asking majors, minors, and members of the math/stat club to let us know about the programs they participated and to pass on any advice to students looking for things to do in future summers.  Their responses are recorded below.
 
 
-**Shreya Ahirwar '22** participated in a variety of programs: the [Fields Undergraduate Summer Research Program](http://www.fields.utoronto.ca/activities/21-22/2021-FUSRP), the [Woods Hole Oceanographic Institution Guest Student Program](https://www.whoi.edu/what-we-do/educate/gueststudent/), the [Summer Geometry Institute](https://sgi.mit.edu/sgi-2021) at MIT, and the Online Undergraduate Resource Fair for the Advancement and Alliance of Marginalized Mathematicians.
+**Cynthia Obianuju Akanaga '25** completed a Software Engineering internship with [Liberty Mutual Insurance](https://www.libertymutual.com/).
 
-> For the first half of this summer, I was a guest student researcher at the Woods Hole Oceanographic Institution. There, I worked with Dr. Michael Neubert on a project involving differential equations. We studied fisheries models that exhibit complex, chaotic behavior including riddled basins. We worked on determining whether certain optimal harvesting strategies could be used to reduce the complexity of such models. For the last half of the summer, I participated in the Fields Undergraduate Summer Research Program (FUSRP). At FUSRP, I worked on the localization game played on graphs, alongside three other students under the supervision of Dr. Anthony Bonato. For about a week or so in July, I participated in "tutorial week" at the Summer Geometry Institute at MIT, which is the first week of SGI's research program. During this time, I attended hands-on tutorials introducing the theory and practice of geometry processing, led by researchers in the field. Sometime in the middle of this, I also joined the organizing team of the Online Undergraduate Resource Fair for the Advancement and Alliance of Marginalized Mathematicians(OURFA²M²), which I'm very excited about. OURFA²M² is a math conference directed towards students who are underrepresented or who may not have access to all the resources they need to succeed in math.
+> I was on the Secure Devops team so a lot of my work involved optimizing the CloudForge website (it's basically like GitHub but very customizable) to enhance user experience and efficiency. For my intern project, I developed a browser extension enabling CloudForge users to assess their code's carbon emissions, showcasing the company's dedication to sustainability and creative problem-solving. The technologies I used were mostly VSCode, ReactJS, and GraphQl.
 >
-> Advice: Don't be afraid to call on the professors, graduate students (or even alums) you've formed connections with - people are often a lot more willing to help you figure things out than you might think. If you're applying to REUs, try to get feedback on your application/statement of purpose from someone else. If you're just getting started and applying to your first research program, it helps to have take a research course at MHC, although it's definitely not necessary. If you're an international student who has used Lynk funding already, look around for programs that have the means to fund international students; if you haven't used Lynk funding yet, some programs who normally don't fund international students will accept your application if you email them and tell them that you'll be sponsored, so make sure to ask. Also don't count yourself out before you apply!
+> Advice: For my technical interview, I got mostly leetcode easy questions and I emphasized a lot on my experience working in diverse teams in MHC so as long as you hone yur skills on leetcode and practive some good stories for your behavioural interview, the sky is your limit.
 
 
-**Angela Kung '22** interned at a securities litigation law firm called [Pomerantz LLP](https://pomlaw.com).
+**Assem Amangeldina '25** interned at John Hancock/Manulife Investment Team as an Analyst. Assem was also an Online Scholar at [Girls Who Invest](https://www.girlswhoinvest.org), a selective program and strong community dedicated to helping young female finance-enthusiasts by offering online intensive courses. 
 
-> This summer I interned at a securities litigation law firm called Pomerantz LLP. I was in charge of analyzing how much a retail investor (like you and me) lost in the stock exchange specific to the company/case we are pursing. I used Excel to input their stock trade statements and calculated their losses using FIFO and LIFO calculations. I also created legal documents that the attorneys use for the people who are appointed lead plaintiff. I also worked on calculating damages on much larger datasets given to us by our institutional investors. Another responsibility that I had was insider research where I calculated how much an insider (C suite) gained by selling their stock and exercised how many options within the class period and the pre-class period. I even got a chance to create some graphs that the attorneys used in the court hearing! I also got a chance to use Bloomberg Terminal to download company data like prospectuses and press releases. The internship allowed me to briefly explore the finance industry and has encouraged me to explore rotational programs and analyst positions in the finance sector.
+[![Assem Amangeldina][]][Assem Amangeldina]   <!--   -->
+
+> Hi, everyone! My name is Assem and I am a rising junior at Mount Holyoke College, studying Economics and Statistics. I was born and raised in Kazakhstan. At school, you probably have seen me being actively involved in our investment Club or you might know me as a Statistics Tutor. It is nice to meet you all! 
+>
+>We are all aware that gaining work experience is key for boosting your employability, especially as an international student. This summer I was fortunate enough to have interned at John Hancock/Manulife Investment Team as an Analyst - the 4th largest fund manager in the world with about $900B AUM. Along with my internship, I was also an Online Scholar at Girls Who Invest - a selective program and strong community dedicated to helping young female finance-enthusiasts by offering online intensive courses. 
+>
+>These experiences allowed me to grow personally, but it also helped me to gain new skills in basic accounting and financial modeling—experience that I did not previously have. I also gained a better understanding of the banking industry, made a new network, and gained a few new references for the future. But most importantly, I gained a new sense of professionalism and a clearer view of what it meant to be in the professional world. Next summer I excited to embark on a new journey and opportunity set out for me in NYC. Will tell you more about it next time! 
+>
+> Advice: I would advise everyone to take the opportunity and do an internship, even if it is not necessarily in the industry that you wish to work in. There is much to gain from it on both a professional and personal level. If anyone needs any help with recruiting process, please do not hesitate to reach out to me amang22a@mtholyoke.edu. I am a huge people and coffee person - happy to help in any way I can. Here is also my [LinkedIn account](https://www.linkedin.com/in/assem-amangeldina/). Let's connect!
+
+**Jacqueline Anokyewaah '24** did a remote Data Science Internship with Michigan Technological University.
+
+> It was a great time of learning where I cleaned and tidied data. I also annotated datasets using Excel. This experience was related to my Data Science major and made me realize how broad data science is. Data is used everywhere and analyzing it can differ in many ways.
+>
+> Advice: Learn, network and enjoy your internship experiences!
+
+**Caroline Arnold '24** participated in the “Data Science Across Disciplines” REU at Marquette University and studied how large language models can be used to improve medical crowdfunding outcomes.
+
+**Cat Barbour '24** participated in the [Statistics REU at Iowa State University](https://www.stat.iastate.edu/).
+
+[![Cat Barbour][]][Cat Barbour]   <!--   -->
+
+> In partnership with [CSAFE (Center for Statistics and Applications in Forensic Evidence)](https://forensicstats.org/), we continued the work evaluating the accuracy of a system called NIBIN (National Integrated Ballistics Information Network) and other similar systems. When a crime is committed, and a bullet is found on scene, forensic examiners seek to find a match between the found bullet and a bullet whose origin is known. This is what spurs a NIBIN query. Examiners upload item(s) into NIBIN to receive the top $k$ most similar items in the database. From there, examiners visually compare the $k$ items to determine if a more thorough visual examination is justified. Our issue lies with the difficulty to verify the reliability of NIBIN's results as it is a proprietary system. While published statistics are in favor of the use of these systems, our simulations were much less promising. 
+>
+> As a Data Science major, I have spent a lot of time developing a strong foundation in theoretical and applied mathematics and statistics. This became crucial during the summer as I was the primary author of the Shiny app we used to run our simulations. In order to write code that was accurately doing what we wanted it to do, I needed to fully understand what I was asking the application to do. It was only through the background I developed at Mount Holyoke that I was able to do so. Having said that, this summer has opened my eyes to how much more there is to learn. It is because of my experience this summer that I am now applying to graduate schools instead of transitioning directly to industry.
+
+
+**Sophie Coyne '24** did a summer REU at the [Smithsonian Environmental Research Center](https://serc.si.edu/internships) in the Spatial Ecology and Conservation lab.
+
+[![Sophie Coyne][]][Sophie Coyne]   <!--   -->
+
+> My independent research project focused on the multitrophic bird-insect-tree relationships and how they are impacted by tree diversity and microclimate (small scale temperature and humidity), particularly for forest restoration efforts. I worked in a large forest regeneration experiment called "Biodiversitree". I designed and built special cages to exclude birds from eating insects on certain branches of trees, and then assessed amounts of damage to leaves (called herbivory) before and after putting out the cages. We then fit Bayesian models to the data to assess how different factors influenced rates of herbivory and while some of the results are still TBD, we did find that different types of herbivory seem to respond differently to microclimate, and that tree diversity impacts how much birds control the insect damage. This was an incredibly cool program and helped me get firsthand field research experience and a better understanding of ecosystem restoration. While it was less math-heavy, the problem-solving skills I've developed within the math major were very helpful, and so were the statistics classes I have taken. It has helped confirm my interests in environmental research and showed me I really love doing fieldwork.
+>
+> Advice: You don't necessarily need tons of relevant experience - they look for people who are motivated to do research and value a variety of academic backgrounds. There are a bunch of different labs so looking into them and talking about specific things that interest you in your application essay is really important. 
+
+
+**Midge Hartshorn '24** participated in the [Harvard/Smithsonian Center for Astrophysics Solar REU](https://pweb.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/heassp-solar-physics-reu-program), studying the Sun in Cambridge, MA.
+
+[![Midge Hartshorn][]][Midge Hartshorn]   <!--   -->
+
+> This was a fantastic experience that helped me refine my goals for graduate study and beyond. Students are immersed in rigorous 10-week novel research projects about a topic that is not typically covered in undergrad (no Sun experience required!).  My project was evaluating the opacity of certain spectral lines in the solar chromosphere during small-scale impulsive events, and involved a lot of programming (primarily in IDL). I also learned a ton about the Sun (lots of magnetic field physics!) and other astrophysical concepts while getting to meet a very diverse team of researchers from all around the world.
+>
+> Advice: Thoroughly read the project descriptions, and when you select your top two choices, make sure your essay demonstrates something relevant to those descriptions! You do NOT need to be an astronomy or physics major to apply.
 
 
 
-**Grace Rhodes '22** participated in an [REU at the University of North Carolina at Greensboro](https://mathstats.uncg.edu/StatisticsREU2021/).
+**Elliot Haugen '24** interned in the IT department of [Cambridge Associates](https://www.cambridgeassociates.com), an asset management company.
 
-> Over the summer, I was a part of the REU site at the University of North Carolina at Greensboro in Complex Data Analysis using Statistical and Machine Learning Tools. I worked with Dr. Jianping Sun on a Statistical Genetics project using an application of a Markov Chain Composite Likelihood. This project involved theoretical derivations and numerical analysis, so I found this REU very helpful in practicing applying the theory and R programming I had learned in class. Working on this project that involved an application in genetics was really helpful in that it confirmed for me that I want to pursue graduate school in Biostatistics and continue doing research. This REU also included invited talks on topics like careers in academia vs industry and applying to graduate school, which were great resources for planning for post-graduation.
+[![Elliot Haugen][]][Elliot Haugen]   <!--   -->
+
+> I haven't used my math skills too much outside of understanding different investment performance metrics they use at work. However, I've warmed up to finance through this opportunity and I'm now hoping to work in quantitative research at a hedge fund, bank, or high-frequency trading firm after graduation. 
 >	
-> Advice: I would definitely recommend this REU to anyone interested in Statistics research, it was a great experience. I think this REU is great if you're looking to attend/ present at conferences because it includes a travel stipend in addition to the REU stipend. In terms of the application, I heard back pretty quickly because I submitted the application early so I would recommend submitting as soon as soon as possible!
+> Advice: 
+>+ Learn networking and make it a habit even if you don't consider yourself social. I got lucky with this internship but most of my colleagues did not, they had a preexisting connection. 
+>+ As a math major, you can seriously do anything in my opinion. If you passed Real Analysis I'm pretty sure you can learn anything else you wanna put your mind to. So do lots of research on careers and ask around about what people are getting into. Develop the skills you see appearing most on job descriptions you're interested in. Don't limit yourself based on your background :)
 
 
-**Emily Rosaci '23** participated in the math/stat department REU at Mount Holyoke.
+**Willow Kelleigh '24** interned at [The Learning Partnership](https://www.jointhepartnership.net).
 
-
-> Over the summer I had a REU  with Professor Chumley. I worked with a team to investigate random billiards, or more specifically, how a particle will behave within channels with different microstructures. We spent much of our time coding simulations in R to see how our parameters affected mean escape time and the output angles of our particle. After generating some interesting plots, we began working on proofs to map out the state space of output angles in the case of triangular microstructures. 
+> I participated in an REU focused on quantitative analysis of education research related to CS  in Chicago Public Schools. I did an analysis of student experiences with making personal connections to what they learn, and used multiple imputation and structural equation modeling. In terms of how it has impacted my future, I got a job offer with the people hosting my REU and accepted.
 >
-> Advice: Even though math research can sound quite daunting, definitely apply and try it out. The math knowledge you currently have is applicable in even more ways than you would think!
+> Advice: I didn't really apply in the traditional sense but it would help if you have an education background.
 
 
+**Kylee Miller '24** worked at the National Institute of Alcohol Abuse and Alcoholism through the [NIH Undergraduate Scholarship Program (UGSP)](https://www.training.nih.gov/programs/ugsp).
 
-**Lea Sleiman '22** interned at [Venture for America](https://ventureforamerica.org/).
+[![Kylee Miller][]][Kylee Miller]   <!--   -->
 
-[![Lea Sleiman][]][Lea Sleiman]   <!--   -->
-
-
-> Position: Data Specialist Intern
+> I conducted research on differences in grey matter volumes by sex and alcohol use disorder status.  I established the neuroimaging analysis procedure and worked on automating the processing of structural MRIs. I utilized MATLAB, Python, and RStudio. I learned new statistical methods and softwares. I plan on continuing neuroimaging research  when I return to NIH after I graduate for my research fellowship through UGSP.
 >
-> Role: Conduct qualitative and quantitative Data collection during Training Camp and Redux (TCR) by writing and sending daily surveys. Perform data mining and statistical analysis to measure fellow engagement and satisfaction on a day to day. Perform demographic analysis, Objective and Key Result analysis, and NPS analysis at the end of TCR Programs to measure overall success. Gather competency data and perform learning objective analysis to help assess TCR curriculum based on a newly developed program competency model. Created clean Excel workbooks using power query, and clear data visualizations to write a final TCR report.
+> Advice: Look into the NIH Summer Reseaarch Programs! There are lots of math and stat heavy research being done. Be specific on what type of research you are interested in and examples of people doing it at the NIH. 
+
+**Hollis Welling '25** participated in the [Girls Who Invest Summer Intensive Program](https://www.girlswhoinvest.org/sip).
+
+[![Hollis Welling][]][Hollis Welling]   <!--   -->
+
+> I participated in the Girls Who Invest Summer Intensive Program, which included a 4-week training program focused on core finance and investment concepts, in addition to a 7-week investment management internship. I was an Investments Intern at CalSTRS, the California State Teacher's Retirement System, which is the 2nd largest pension fund in the U.S. I completed a research project about big data applications in investment management, and a project that included statistical analysis to create an investment recommendation. I was able to further learn about the connection of data science and investment management, which has motivated me to look at quantitative finance internships for next summer.
 >
-> Key Accomplishments:
+> Advice: If you are coming from a non-traditional finance background, do not look at that as a weakness! The program looks for people from diverse backgrounds and wants to give opportunities to those that may find it more difficult to break into the finance industry. 
+
+
+**Feifan Zhang '24** spent 8 weeks at [Texas State University for an REU](https://www.math.txst.edu/research-conferences/summerreu.html) this summer.
+
+> My group was the Stat group, which tried to develop a new linear-rank-type test for interval-censored survival data based on the proportional odds model. Since I am now double majoring in Mathematics and Stat-Econ, this research is closely related to my majors. This summer research gave me a new impression of what research was and allowed me to see what the research would be like in a "pure" stat field, which strengthened my thinking of applying for graduate school.
 >
->+	Managed a data base of 2800+ records
->+	Wrote, and analyzed 35 surveys in 5 weeks
->+	Accurately gathered competency data for over 35 learning Objectives.
->+	Assisted in hitting 8 of 10 TCR OKRs by flagging fellows when necessary throughout Training Camp
-
-
-
-**Yuxuan (Susan) Wang '23** participated in the math/stat department REU at Mount Holyoke. 
-
-> I have worked with Professor Tim Chumley and two other classmates on a summer research project. The topic is about Random Billiard, Probabilities and what interplay they have. 
-We were interested a particle/billiard colliding in a channel (two walls parallel to each other) and how different collision laws or different microstructures on the channel walls would affect the activities of the billiards' collisions. 
-We specifically focused on the specular-diffuse collision law with a parameter $\alpha$. Parameter $\alpha$ controls the probability for a collision to be diffuse. We examined how the mean time for the particle to escape the channel would be related to the parameter $\alpha$. 
-We also specifically explored the channel with a triangular microstructure, and has come up with several conjectures about the incoming and outgoing angles of the particle to the small triangular cells.
-
+> Advice: Be well prepared for the REU application; it will be much more competitive than I previously expected. 
 
 
 ### Archive
 
+-	[Summer 2021 activities](/misc/summer-activities/2021)
 -	[Summer 2019 activities](/misc/summer-activities/2019)
 -	[Summer 2018 activities](/misc/summer-activities/2018)
 
 
-[Lea Sleiman]: lea.jpg {class="img-responsive" width=300px style="float: right;"}
+[Midge Hartshorn]: midge.HEIC {class="img-responsive" width=300px style="float: right;"}
+[Elliot Haugen]: elliot.jpg {class="img-responsive" width=300px style="float: right;"}
+[Assem Amangeldina]: assem.jpg {class="img-responsive" width=300px style="float: right;"}
+[Kylee Miller]: kylee.jpg {class="img-responsive" width=300px style="float: right;"}
+[Sophie Coyne]: sophie.HEIC {class="img-responsive" width=300px style="float: right;"}
+[Cat Barbour]: cat.jpg {class="img-responsive" width=300px style="float: right;"}
+[Hollis Welling]: hollis.jpg {class="img-responsive" width=300px style="float: right;"}
 
 
