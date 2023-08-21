@@ -9,7 +9,7 @@ footer: Last modified <#exec date>
 
 Each summer Mount Holyoke math/stat/ds students are involved in a variety of activities.  Over summer 2023, students participated in research and internships at academic institutions, government agencies, and in industry.  The department is proud of the diversity of interests and everyone's accomplishments. 
 
-A survey was sent asking majors, minors, and members of the math/stat club to let us know about the programs they participated and to pass on any advice to students looking for things to do in future summers.  Their responses are recorded below.
+A survey was sent asking majors, minors, and members of the math/stat/ds club to let us know about the programs they participated and to pass on any advice to students looking for things to do in future summers.  Their responses are recorded below.
 
 
 **Cynthia Obianuju Akanaga '25** completed a Software Engineering internship with [Liberty Mutual Insurance](https://www.libertymutual.com/).
@@ -116,12 +116,12 @@ A survey was sent asking majors, minors, and members of the math/stat club to le
 -	[Summer 2018 activities](/misc/summer-activities/2018)
 
 
-[Midge Hartshorn]: midge.jpg {class="img-responsive" width=300px style="float: right;"}
+[Midge Hartshorn]: midge.jpg {class="img-responsive" width=300px style="float: left;"}
 [Elliot Haugen]: elliot.jpg {class="img-responsive" width=300px style="float: right;"}
 [Assem Amangeldina]: assem.jpg {class="img-responsive" width=300px style="float: right;"}
-[Kylee Miller]: kylee.jpg {class="img-responsive" width=300px style="float: right;"}
+[Kylee Miller]: kylee.jpg {class="img-responsive" width=300px style="float: left;"}
 [Sophie Coyne]: sophie.jpg {class="img-responsive" width=300px style="float: right;"}
-[Cat Barbour]: cat.jpg {class="img-responsive" width=300px style="float: right;"}
+[Cat Barbour]: cat.jpg {class="img-responsive" width=300px style="float: left;"}
 [Hollis Welling]: hollis.jpg {class="img-responsive" width=300px style="float: right;"}
 
 
