@@ -67,7 +67,6 @@ We specifically focused on the specular-diffuse collision law with a parameter $
 We also specifically explored the channel with a triangular microstructure, and has come up with several conjectures about the incoming and outgoing angles of the particle to the small triangular cells.
 
 
-
 ### Archive
 
 -	[Summer 2019 activities](/misc/summer-activities/2019)
