@@ -154,7 +154,7 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 [Midge Hartshorn]: midge.jpg {class="img-responsive" width=300px style="float: right;"}
 [Elliot Haugen]: elliot.jpg {class="img-responsive" width=200px style="float: right;"}
 [Assem Amangeldina]: assem.jpg {class="img-responsive" width=300px style="float: right;"}
-[Kylee Miller]: kylee.jpg {class="img-responsive" width=200px style="float: right;"}
+[Kylee Miller]: kylee.jpg {class="img-responsive" width=170px style="float: right;"}
 [Sophie Coyne]: sophie.jpg {class="img-responsive" width=300px style="float: right;"}
 [Cat Barbour]: cat.jpg {class="img-responsive" width=300px style="float: right;"}
 [Hollis Welling]: hollis.jpg {class="img-responsive" width=200px style="float: right;"}
