@@ -16,7 +16,7 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 
 > I was on the Secure Devops team so a lot of my work involved optimizing the CloudForge website (it's basically like GitHub but very customizable) to enhance user experience and efficiency. For my intern project, I developed a browser extension enabling CloudForge users to assess their code's carbon emissions, showcasing the company's dedication to sustainability and creative problem-solving. The technologies I used were mostly VSCode, ReactJS, and GraphQl.
 >
-> Advice: For my technical interview, I got mostly leetcode easy questions and I emphasized a lot on my experience working in diverse teams in MHC so as long as you hone yur skills on leetcode and practive some good stories for your behavioural interview, the sky is your limit.
+> Advice: For my technical interview, I got mostly leetcode easy questions and I emphasized a lot on my experience working in diverse teams in MHC so as long as you hone your skills on leetcode and practice some good stories for your behavioural interview, the sky is your limit.
 
 
 **Assem Amangeldina '25** interned at John Hancock/Manulife Investment Team as an Analyst. Assem was also an Online Scholar at [Girls Who Invest](https://www.girlswhoinvest.org), a selective program and strong community dedicated to helping young female finance-enthusiasts by offering online intensive courses. 
