@@ -93,6 +93,20 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 >
 > Advice: Look into the NIH Summer Reseaarch Programs! There are lots of math and stat heavy research being done. Be specific on what type of research you are interested in and examples of people doing it at the NIH.
 
+**Autumn Nguyen '25** did fog research in an REU at the [Friday Harbor Lab](https://fhl.uw.edu) and participated in AI ethics discussions in the [IDEAS program at UC San Diego](https://sites.google.com/view/ideas-summer-program/).
+
+[![Autumn Nguyen][]][Autumn Nguyen]   <!--   -->
+
+> It’s Autumn! I will share with you two of my experiences this summer that have given me the most inspiration, for both my intellectual pursuit and career. 
+>
+> The first one was conducting my own research project for the first time. I was part of a tight-knit REU cohort at the Friday Harbor Lab, and we were together on the beautiful San Juan Island for two months. There, I researched coastal fog in the context of global warming. Setting out to understand fog frequency patterns and its effect on the intertidal ecosystems around the island, I wrote code to analyze satellite imagery and used Computer Vision to classify the fog photos that were taken by the cameras I set up around the island. I was glad I could use my logical thinking skills learned from CS and Math classes at MHC to tackle environmental problems like this!
+>
+> My second experience was learning how to think about the ethics and social impacts of Artificial Intelligence (AI) through both technical and philosophical perspectives. As part of a small cohort of the IDEAS program in UC San Diego, I got to contribute to discussions about aspects in the AI field like privacy, biases, governance, etc., with faculty and students whose expertise spanned from computer science and mathematics to philosophy and economics. In a group of four, I got to apply what I learned to try tackling a real-world issue, California wildfire, using AI -- keeping ethics and social impact as the top priorities. 
+>
+> Since I declared my majors, my career goal has been that I wanted to use my skills in Computer Science and Mathematics to solve environmental issues, but those two experiences have helped me see the journey to that goal much more clearly, and I'm so thankful for that! 
+>
+> Advice: I believe that essays are the main application materials that these two programs looked at. When I wrote those essays -- the most common theme of which being "Why do you want to join the program?", I tried not to think that I had to write something that could impress someone so that they think I deserve to be in the program (while I believed that I DO deserve it!). Rather, I think that I was writing these just to express my true feelings. Because there were definitely reasons why I chose to apply to these programs over others, I thought of the essays as a challenge for me to put these intuitive reasons into coherent words, rather than a challenge to get admitted. This way of thinking has helped the process of writing application essays become much more enjoyable for me, so I hope that it can also help future applicants. If anyone is interested in participating in Friday Harbor Lab REU or UC San Diego's IDEAS next year, I'm happy to chat more. You can reach out to me through [Linkedin](https://www.linkedin.com/in/autumnyngocnguyen/) or [email](mailto:ngoc54n@mtholyoke.edu).
+
 **Bea Rodriguez '24** worked as a Consultant for the company [TechDNA](https://www.tech-dna.net/).
 
 [![Bea Rodriguez][]][Bea Rodriguez]   <!--   -->
@@ -101,6 +115,13 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 >
 > Advice: The point of summer jobs is to learn! Whether it's an internship or a consultantship or whatever, as long as you're honest in your skills and experience *don't* be afraid to apply and search for jobs that are outside of your depth. Companies know what they want, and it's usually cheaper for them to hire an inexperienced but smart and trustable intern to work on a project than pay a real company to do it for them. The worst they can say is no! Always apply (at the very least, you'll get experience with interviews).
 
+**Anqi Wei '24** participated in the [UMass Math & Stats REU](https://sites.google.com/umass.edu/umassmathreu/home).
+
+[![Anqi Wei][]][Anqi Wei]   <!--   -->
+
+> I attended UMass Math & Stats REU 2023, an eight-week opportunity to do research in pure math, applied math, data science, or statistics. I worked with another student and my supervisor on the meta-population covid model. Following previous studies, our study focused on understanding how new variants spread between different populations and cities to better estimate hotspots and track the spread of the virus. This project gave me a good understanding of applied mathematics research and gave me some inspiration in the direction of my graduate application.
+>
+> Advice: Don't hesitate to apply! UMass offers excellent opportunities for Five College students and is also friendly to international students. Also, because the application website is hidden and difficult to find, remember to check the UMass Mathematics Department website often. 
 
 **Hollis Welling '25** participated in the [Girls Who Invest Summer Intensive Program](https://www.girlswhoinvest.org/sip).
 
@@ -116,6 +137,10 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 > My group was the Stat group, which tried to develop a new linear-rank-type test for interval-censored survival data based on the proportional odds model. Since I am now double majoring in Mathematics and Stat-Econ, this research is closely related to my majors. This summer research gave me a new impression of what research was and allowed me to see what the research would be like in a "pure" stat field, which strengthened my thinking of applying for graduate school.
 >
 > Advice: Be well prepared for the REU application; it will be much more competitive than I previously expected.
+
+**Astrid Zhao '24** did an internship at Morgan Stanley as a Technology Analyst.
+
+> Advice: Apply early.
 
 
 ### Archive
@@ -134,5 +159,6 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 [Cat Barbour]: cat.jpg {class="img-responsive" width=300px style="float: right;"}
 [Hollis Welling]: hollis.jpg {class="img-responsive" width=200px style="float: right;"}
 [Bea Rodriguez]: bea.jpg {class="img-responsive" width=300px style="float: right;"}
-
+[Autumn Nguyen]: autumn.jpg {class="img-responsive" width=300px style="float: right;"}
+[Anqi Wei]: anqi.jpg {class="img-responsive" width=300px style="float: right;"}
 
