@@ -73,9 +73,7 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 
 > I haven't used my math skills too much outside of understanding different investment performance metrics they use at work. However, I've warmed up to finance through this opportunity and I'm now hoping to work in quantitative research at a hedge fund, bank, or high-frequency trading firm after graduation. 
 >	
-> Advice: 
->+ Learn networking and make it a habit even if you don't consider yourself social. I got lucky with this internship but most of my colleagues did not, they had a preexisting connection. 
->+ As a math major, you can seriously do anything in my opinion. If you passed Real Analysis I'm pretty sure you can learn anything else you wanna put your mind to. So do lots of research on careers and ask around about what people are getting into. Develop the skills you see appearing most on job descriptions you're interested in. Don't limit yourself based on your background :)
+> Advice: Learn networking and make it a habit even if you don't consider yourself social. I got lucky with this internship but most of my colleagues did not, they had a preexisting connection. As a math major, you can seriously do anything in my opinion. If you passed Real Analysis I'm pretty sure you can learn anything else you wanna put your mind to. So do lots of research on careers and ask around about what people are getting into. Develop the skills you see appearing most on job descriptions you're interested in. Don't limit yourself based on your background :)
 
 
 **Willow Kelleigh '24** interned at [The Learning Partnership](https://www.jointhepartnership.net).
