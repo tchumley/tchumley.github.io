@@ -75,6 +75,12 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 >	
 > Advice: Learn networking and make it a habit even if you don't consider yourself social. I got lucky with this internship but most of my colleagues did not, they had a preexisting connection. As a math major, you can seriously do anything in my opinion. If you passed Real Analysis I'm pretty sure you can learn anything else you wanna put your mind to. So do lots of research on careers and ask around about what people are getting into. Develop the skills you see appearing most on job descriptions you're interested in. Don't limit yourself based on your background :)
 
+**Sam Kadel '23** did the [Big Data REU at UMBC](https://bigdatareu.umbc.edu/summer2023/research/).
+
+> I worked on a dataset of proton beam therapy images, and worked on a machine learning model to remove noise from said images so that we can more accurately see where proton beam lasers are going in cancer patients.
+>
+> Advice: This internship is remote - it doesn't say that on the application, but it was remote. Communication is also really important in these sorts of internships, and you need to ask multiple specific questions about what materials already exist (github? Google Drive? grabcad?)
+
 
 **Willow Kelleigh '24** interned at [The Learning Partnership](https://www.jointhepartnership.net).
 
@@ -82,6 +88,19 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 >
 > Advice: I didn't really apply in the traditional sense but it would help if you have an education background.
 
+**Deepika Kumawat '24** did a physics research internship at MIT.
+
+[![Deepika Kumawat][]][Deepika Kumawat]   <!--   -->
+
+> This summer, I participated in a research internship at Massachusetts Institute of Technology (MIT) through the Center of Integrated Quantum Mechanics. My work focused on optical characterization of AgCrP2S6, an interesting 2D material that features chains of silver and chromium atoms that behave like 1D materials. I measured the band gap of 1.3 eV, which showed excellent agreement with DFT calculations. 
+
+**Aria Mallare '25** volunteered as a coach for [Coach for College](https://www.coachforcollege.org/).
+
+[![Aria Mallare][]][Aria Mallare]   <!--   -->
+
+> Over the summer, I volunteered as a coach for Coach for College, a program that aims to promote higher education in rural Vietnam. I spent a month living in Rạch Gòi where me and my team of American and Vietnamese university students taught academic subjects, sports, and life skills to rising 8th and 9th graders at Him Lam Middle School. While our official title is "coach," the role is so much more than that. We lead teams of children and inspire them to continue their education and be lifelong learners. I lead the Green Team alongside amazing co-coaches. I also taught mathematics and coached basketball.
+>
+> Advice: Strengthen your intercultural communication skills!
 
 **Kylee Miller '24** worked at the National Institute of Alcohol Abuse and Alcoholism through the [NIH Undergraduate Scholarship Program (UGSP)](https://www.training.nih.gov/programs/ugsp).
 
@@ -140,6 +159,10 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 
 > Advice: Apply early.
 
+**Boxiao Zhu '24** did summer research in the math/stat department at MHC.
+
+> I did summer research in Mount Holyoke College with Professor Tim Chumley and Professor Alanna Hoyer-Leitzel. We investigated the impact of re-exposure of respiratory virus on previously infected individuals by utilizing different stochastic differential equations model. We ran the simulations using the mathematical software Matlab on computers and combined the simulated data to plot the graph to fit the data to mathematical distributions. The research not only required the content from probability and differential equations, but also practice data analysis and programming skills, which are all essential capacity as a math major. As a research assistant, the experience is kind of similar to life in graduate school. I think this summer research gives me the confidence to pursue and adapt to my future graduate school.
+
 
 ### Archive
 
@@ -159,4 +182,6 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 [Bea Rodriguez]: bea.jpg {class="img-responsive" width=300px style="float: right;"}
 [Autumn Nguyen]: autumn.jpg {class="img-responsive" width=300px style="float: right;"}
 [Anqi Wei]: anqi.jpg {class="img-responsive" width=300px style="float: right;"}
+[Aria Mallare]: aria.jpg {class="img-responsive" width=300px style="float: right;"}
+[Deepika Kumawat]: deepika.jpg {class="img-responsive" width=300px style="float: right;"}
 
