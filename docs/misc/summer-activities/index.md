@@ -182,6 +182,6 @@ A survey was sent asking majors, minors, and members of the math/stat/ds club to
 [Bea Rodriguez]: bea.jpg {class="img-responsive" width=300px style="float: right;"}
 [Autumn Nguyen]: autumn.jpg {class="img-responsive" width=300px style="float: right;"}
 [Anqi Wei]: anqi.jpg {class="img-responsive" width=300px style="float: right;"}
-[Aria Mallare]: aria.jpg {class="img-responsive" width=300px style="float: right;"}
+[Aria Mallare]: aria.jpg {class="img-responsive" width=200px style="float: right;"}
 [Deepika Kumawat]: deepika.jpg {class="img-responsive" width=300px style="float: right;"}
 
