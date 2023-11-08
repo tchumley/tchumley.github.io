@@ -51,7 +51,7 @@ our algebra requirement.
 Stat majors are required to take probability. Any of these are equivalent
 to our probability and will fulfill that requirement.
 
-- Stat 515 at UMass
+- Stat 315 (formerly Stat 515) at UMass
 - Math/Stat 360 at Amherst College
 - Mth 246 at Smith College
 
