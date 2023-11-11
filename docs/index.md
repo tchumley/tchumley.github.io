@@ -5,7 +5,7 @@ nav-head:
     title: Tim Chumley
     url: /
 nav: 
-	- 	link: "[CV](/assets/pdf/cv.pdf)"
+	- 	link: "[CV](cv.pdf)"
 	-	link: "[Research](#research)"
 	-	link: "[Teaching](#teaching)"
 	-	link: "[Miscellaneous](#miscellaneous)"
