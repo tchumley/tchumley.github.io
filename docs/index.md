@@ -11,7 +11,7 @@ nav:
 	-	link: "[Miscellaneous](#miscellaneous)"
 ---
 
-I am an Associate Professor of Mathematics at [Mount Holyoke College][MHC].  Previously, I was an NSF Alliance for Building Faculty Diversity Postdoctoral Fellow at [Iowa State University][ISU].  Before that, I got my PhD in mathematics at [Washington University in St. Louis][WU]. See my [cv][] for more details.
+I am an Associate Professor of Mathematics at [Mount Holyoke College][MHC].  Previously, I was an NSF Alliance for Building Faculty Diversity Postdoctoral Fellow at [Iowa State University][ISU].  Before that, I got my PhD in mathematics at [Washington University in St. Louis][WU]. See my [cv][] for more details. 
 
 
 ## Research
