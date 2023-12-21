@@ -49,7 +49,8 @@ random billiard models and thermodynamics. Her work is documented in this
 
 #### Current courses
 
-I am on sabbatical in Fall 2023.
+- [Math 339SP][]: Stochastic Processes (Spring 2024)
+- [Math 342][]: Probability (Spring 2024)
 
 #### Past courses
 
