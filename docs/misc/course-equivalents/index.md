@@ -74,7 +74,13 @@ are equivalent versions of our class. They fulfill the requirement.
 
 ### 200-level required classes
 
-The courses below are required for either the math or stat major.
+The courses below are required for the math or stat major.
+
+#### Math 203 Calculus III
+
+- Math 233 at UMass
+- Math 211 at Amherst College
+- Mth 212 at Smith College
 
 #### Math 211 Linear Algebra
 
