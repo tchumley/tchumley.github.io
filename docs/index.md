@@ -11,12 +11,12 @@ nav:
 	-	link: "[Miscellaneous](#miscellaneous)"
 ---
 
-I am an Associate Professor of Mathematics at [Mount Holyoke College][MHC].  Previously, I was an NSF Alliance for Building Faculty Diversity Postdoctoral Fellow at [Iowa State University][ISU].  Before that, I got my PhD in mathematics at [Washington University in St. Louis][WU]. See my [cv][] for more details. 
+I am Associate Professor of Mathematics on the John Stewart Kennedy Foundation at [Mount Holyoke College][MHC].  Previously, I was an NSF Alliance for Building Faculty Diversity Postdoctoral Fellow at [Iowa State University][ISU].  Before that, I got my PhD in mathematics at [Washington University in St. Louis][WU]. See my [cv][] for more details. 
 
 
 ## Research
 
-I'm interested in probability theory, stochastic processes, and their applications.  In the past few years I've worked on problems that overlap with billiard dynamical systems, differential geometry, and statistical physics.    
+I'm interested in probability theory, stochastic processes, and dynamical systems.
 
 
 #### Students
@@ -49,8 +49,8 @@ random billiard models and thermodynamics. Her work is documented in this
 
 #### Current courses
 
-- [Math 339SP][]: Stochastic Processes (Spring 2024)
-- [Math 342][]: Probability (Spring 2024)
+- [Math 206][]: Introduction to Proofs through Analysis (Fall 2024)
+- [Math 342][]: Probability (Fall 2024)
 
 #### Past courses
 
@@ -62,8 +62,8 @@ random billiard models and thermodynamics. Her work is documented in this
 - [Math 241][]: Dynamical Systems (Spring 2022)
 - [Math 301][]: Real Analysis (Fall 2020, 2021, Spring 2023)
 - Math 333: Differential Equations (Spring 2018)
-- [Math 339SP/Stat 344][]: Stochastic Processes (Spring 2017, 2018, 2019, 2022)
-- Math 342: Probability (Fall 2016, 2017, 2018; Spring 2021)
+- [Math 339SP/Stat 344][]: Stochastic Processes (Spring 2017, 2018, 2019, 2022, 2024)
+- [Math 342][]: Probability (Fall 2016, 2017, 2018; Spring 2021, 2024)
 - Stat 395: Independent study, Statistical Analysis of Networks (Fall 2017)
 
 
@@ -86,7 +86,7 @@ Prior to coming to Mount Holyoke I taught:
 -	The image above is a visualization of my [Math genealogy][].
 -	Information on [summer research programs][] for math/stat students.
 -	Mount Holyoke math/stat student [summer activities][].
--	An [MCMC demonstration](https://tchumley.shinyapps.io/cryptography/) for crytography that I made for talk.
+<!-- -	An [MCMC demonstration](https://tchumley.shinyapps.io/cryptography/) for crytography that I made for talk. -->
 -	Some notes that I've written for myself on [getting started with swarm2][], the high performance computing cluster at UMass.
 -	I've made a page listing [Five College equivalent math/stat courses][].
 
@@ -111,6 +111,7 @@ Prior to coming to Mount Holyoke I taught:
 [Math 101]: m101/
 [Math 102]: m102/
 [Math 203]: m203/
+[Math 206]: m206/
 [Math 211]: m211/
 [Math 232]: m232/
 [Math 241]: m241/
