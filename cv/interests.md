@@ -1,1 +1,1 @@
-Probability, dynamical systems, billiards, mathematical physics
+Probability, stochastic processes, dynamical systems
