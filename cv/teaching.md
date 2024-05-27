@@ -4,6 +4,10 @@ Teaching {#teaching .unnumbered}
 Mount Holyoke College {#mount-holyoke-college .unnumbered}
 ---------------------
 
+-	Math 339SP/Stat 344, Stochastic Processes, Spring 2024.
+
+-	Math 342, Probability (2 sections), Spring 2024.
+
 -	Math 203, Calculus III, Spring 2023.
 
 -	Math 301, Real Analysis, Spring 2023.

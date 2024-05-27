@@ -1,6 +1,9 @@
 Service at Mount Holyoke College {.unnumbered}
 ================================
 
+-	Ad-hoc Committee on the Status and Future of Lecturer and Senior Lecturer Positions, 2024
+-	High Performance Computing Cluster Committee, 2023 – present
+-	Faculty Conference Committee, 2023 – 2026
 -	Academic Administrative Board member, 2020 – 2023
 -	Math/Stat liaison for STEMPOC student group, 2018 – 2020
 -	Subcommittee on the Goldwater Fellowship, 2017 – 2020

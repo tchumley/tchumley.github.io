@@ -1,7 +1,8 @@
 Employment {.unnumbered}
 ==========
 
--	Mount Holyoke College, Department of Mathematics \& Statistics 
+-	Mount Holyoke College, Department of Mathematics \& Statistics
+	*	Associate Professor on the John Stewart Kennedy Foundation, 2023 – present 
 	*	Associate Professor, 2022 – present
 	*	Assistant Professor, 2016 – 2022
 -   Iowa State University, Department of Mathematics
