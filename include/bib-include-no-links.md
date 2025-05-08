@@ -1,5 +1,5 @@
-1. []{#CFGY2023} T. Chumley, R. Feres, L. A. Garcia German, and G. Yablonsky. Revisiting maxwell-smoluchowski theory: low surface roughness in straight channels. *Chem. Eng. Sci.*, 284:119477, 2024. 
-2. []{#CCCF2022} T. Chumley, J. Covey, C. Cox, and R. Feres. Chaotic lensed billiards. *arXiv preprint*, 2022. 
+1. []{#MR4893143} T. Chumley, M. Covey, C. Cox, and R. Feres. Chaotic lensed billiards. *Discrete Contin. Dyn. Syst.*, 45(9):3345\--3374, 2025. 
+2. []{#CFGY2023} T. Chumley, R. Feres, L. A. Garcia German, and G. Yablonsky. Revisiting maxwell-smoluchowski theory: low surface roughness in straight channels. *Chem. Eng. Sci.*, 284:119477, 2024. 
 3. []{#ACCCGPRX2022} J. Ahmed, T. Chumley, S. Cook, C. Cox, H. Grant, N. Petela, B. Rothrock, and R. Xhafaj. Dynamics of the no-slip galton board. *arXiv preprint*, 2022. 
 4. []{#CFG2020} T. Chumley, R. Feres, and L. A. Garcia German. Knudsen diffusivity in random billiards: spectrum, geometry, and computation. *SIAM J. Appl. Dyn. Syst.*, 20(3):1655\--1682, 2021. 
 5. []{#CFW2016} T. Chumley, R. Feres, and M. Wallace. Exact discretization of harmonic tensors. *Potential Anal.*, 56(3):409\--421, 2022. 
