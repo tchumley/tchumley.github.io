@@ -4,6 +4,14 @@ Teaching {#teaching .unnumbered}
 Mount Holyoke College {#mount-holyoke-college .unnumbered}
 ---------------------
 
+-	Math 102, Calculus II, Spring 2025.
+
+-	Math 301, Real Analysis, Spring 2025.
+
+-	Math 206, Introduction to Proofs through Analysis, Fall 2024.
+
+-	Math 342, Probability, Fall 2024.
+
 -	Math 339SP/Stat 344, Stochastic Processes, Spring 2024.
 
 -	Math 342, Probability (2 sections), Spring 2024.
@@ -49,8 +57,6 @@ Mount Holyoke College {#mount-holyoke-college .unnumbered}
 -   Math 342, Probability (2 sections), Fall 2017.
 	
 -	Stat 395, Independent study in Statistical Analysis of Networks (3 students), Fall 2017.
-
--	Student Research (2 students), Summer 2017.
 	
 -   Math 211, Linear Algebra, Spring 2017.
 	

@@ -1,7 +1,7 @@
 Service at Mount Holyoke College {.unnumbered}
 ================================
 
--	Ad-hoc Committee on the Status and Future of Lecturer and Senior Lecturer Positions, 2024
+-	Ad-hoc Committee on the Status and Future of Lecturer and Senior Lecturer Positions, 2024 – 2025
 -	High Performance Computing Cluster Committee, 2023 – present
 -	Faculty Conference Committee, 2023 – 2026
 -	Academic Administrative Board member, 2020 – 2023
