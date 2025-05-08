@@ -3,8 +3,8 @@ Professional Service {.unnumbered}
 
 -	Panelist for Pure Math program, Division of Mathematical Sciences, NSF, 2024
 -	Member, Lathisms Scholarship Selection Committee, 2024
--	Member, Steering Committee for the Hudson River Undergraduate Mathematics Conference, 2023
--	Member, Prize Committee for MAA Halmos-Ford Prize, 2023-2026
+-	Member, Steering Committee for the Hudson River Undergraduate Mathematics Conference, 2023 – 2025
+-	Member, Prize Committee for MAA Halmos-Ford Prize, 2023 – 2026
 -	Co-organizer for Special Session at AMS Fall Eastern Sectional Meeting, 2022
 -	Panelist for Applied Math program, Division of Mathematical Sciences, NSF, 2022
 -	Co-organizer, BIRS Oaxaca workshop on Frontiers in Billiard Dynamics, June 2021
