@@ -67,7 +67,7 @@ to our probability and will fulfill that requirement.
 Stat majors are required to take mathematical statistics. These
 are equivalent versions of our class. They fulfill the requirement.
 
-- Stat 516 at UMass
+- Stat 490S (formerly Stat 516) at UMass
 - Math/Stat 370 at Amherst College
 - Mth 320 at Smith College 
 
