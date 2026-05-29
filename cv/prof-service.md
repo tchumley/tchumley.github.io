@@ -1,6 +1,7 @@
 Professional Service {.unnumbered}
 =======================
 
+-	Chair, Prize Committee for MAA Halmos-Ford Prize, 2025 – 2026
 -	Panelist for Pure Math program, Division of Mathematical Sciences, NSF, 2024
 -	Member, Lathisms Scholarship Selection Committee, 2024
 -	Member, Steering Committee for the Hudson River Undergraduate Mathematics Conference, 2023 – 2025
