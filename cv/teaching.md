@@ -4,6 +4,14 @@ Teaching {#teaching .unnumbered}
 Mount Holyoke College {#mount-holyoke-college .unnumbered}
 ---------------------
 
+-	Math 203, Calculus III, Spring 2026.
+
+-	Math 241, Dynamical Systems, Spring 2026.
+
+-	Math 203, Calculus III, Fall 2025.
+
+-	Math 339SP/Stat 344, Stochastic Processes, Fall 2025.
+
 -	Math 102, Calculus II, Spring 2025.
 
 -	Math 301, Real Analysis, Spring 2025.
