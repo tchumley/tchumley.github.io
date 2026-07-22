@@ -1,6 +1,8 @@
 Selected Conference Participation {#selected-conference-participation .unnumbered}
 =================================
 
+-	Resilience across dynamical systems in a stochastic world, BIRS, September 2026.
+
 -	Joint Mathematics Meetings, Boston, January 2023.
 
 -   AMS Eastern Sectional Meeting, Amherst, October 2022.
