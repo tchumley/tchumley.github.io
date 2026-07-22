@@ -49,13 +49,13 @@ random billiard models and thermodynamics. Her work is documented in this
 
 #### Current courses
 
-- [Math 203][]: Calculus III (Spring 2026)
-- [Math 241][]: Dynamical Systems (Spring 2026)
+- [Math 102][]: Calculus II (Fall 2026)
+- [Math 342][]: Probability (Fall 2026)
 
 #### Past courses
 
 - Math 101: Calculus I (Spring 2019)
-- [Math 102][]: Calculus II (Fall 2016, 2021, 2022; Spring 2025)
+- [Math 102][]: Calculus II (Fall 2016, 2021, 2022, 2026; Spring 2025)
 - [Math 203][]: Calculus III (Fall 2022, 2025; Spring 2023, 2026)
 - [Math 206][]: Introduction to Proofs through Analysis (Fall 2024)
 - Math 211: Linear Algebra (Spring 2017)
@@ -64,7 +64,7 @@ random billiard models and thermodynamics. Her work is documented in this
 - [Math 301][]: Real Analysis (Fall 2020, 2021; Spring 2023, 2025)
 - Math 333: Differential Equations (Spring 2018)
 - [Math 339SP/Stat 344][]: Stochastic Processes (Spring 2017, 2018, 2019, 2022, 2024; Fall 2025)
-- [Math 342][]: Probability (Fall 2016, 2017, 2018, 2024; Spring 2021, 2024)
+- [Math 342][]: Probability (Fall 2016, 2017, 2018, 2024, 2026; Spring 2021, 2024)
 
 
 Prior to coming to Mount Holyoke I taught:
