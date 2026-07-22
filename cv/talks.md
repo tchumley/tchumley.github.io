@@ -3,6 +3,8 @@ Presentations {#invited-presentations .unnumbered}
 
 ### Invited {.unnumbered}
 
+-	Amherst College, Colloquium, April 2026
+
 - 	Joint Mathematics meetings, AIM Special Session on Little School Dynamics: Cool Dynamics Research by Researchers at PUIs,
 	January 2023
 
