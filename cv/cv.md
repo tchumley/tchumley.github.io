@@ -9,6 +9,8 @@ Research Articles {.unnumbered}
 
 <#include bib-include-no-links.md>  
 
+<#include supervision.md>  
+
 <#include talks.md>
 
 <#include prof-service.md>
