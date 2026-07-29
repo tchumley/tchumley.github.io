@@ -16,7 +16,7 @@ I am Associate Professor of Mathematics on the John Stewart Kennedy Foundation a
 
 ## Research
 
-I'm interested in probability theory, stochastic processes, and dynamical systems.
+I'm interested in probability theory, stochastic processes, and dynamical systems. 
 
 
 <!-- 
