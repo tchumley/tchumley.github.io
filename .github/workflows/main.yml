@@ -81,7 +81,7 @@ jobs:
             sed 's/<ol/& reversed/' > include/bib-include.html
           # build md file for bibliography in cv.pdf
           cat cv/bibliography.bib | \
-            docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"' --remove doi --remove eprint --remove url | \
+            docker run -i --entrypoint bib2bib tchumley/bibtex2html --no-comment -c 'author : "Chumley"' --remove doi --remove url | \
             docker run -i tchumley/bibtex2html -nodoc -nokeys --no-keywords --style abbrv -q -r | \
             docker run -i pandoc/latex:2.9 -f html -t markdown | \
             sed -n '/------------------/q;p' | \
