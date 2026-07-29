@@ -19,9 +19,8 @@ I am Associate Professor of Mathematics on the John Stewart Kennedy Foundation a
 I'm interested in probability theory, stochastic processes, and dynamical systems.
 
 
+<!-- 
 #### Students
-
-<!-- <img style="float: right;" src="assets/img/karen-young-me.jpg" width=125px class="img-responsive"> -->
 
 -   In Summer 2023, I co-advised Cathy Liu, Sophie Su, and Boxiao Zhu with Alanna Hoyer-Leitzel on two projects related to stochastic differential equations with noise derived from a compound Poisson process. The group studied the problem of analyzing exit time distributions in the context of the [FitzHugh-Nagumo model][LSZ-1] of neuron activity and an [immunological model][LSZ-2] for sudden viral exposure.
 -   In Spring 2023, I co-advised Cathy Liu with Alanna Hoyer-Leitzel on a numerical study of a system differential equations with impulsive stochastic perturbations used to model the effective of sudden viral exposures on the human immune system. Some preliminary results were summarized in this [slide presentation][Cathy Liu].
@@ -38,6 +37,7 @@ random billiard models and thermodynamics. Her work is documented in this
 -	In Fall 2018, I worked with Ziyan (Jessica) Feng on random polygonal billiards. Some of her work is documented on this [web page][Jessica Feng web].
 -	In Summer 2017, I worked with Qiran (Karen) Dong and Fanyi (Young) Yang (Mount Holyoke), on a project studying random billiard systems with non-holonomic (rolling) constraints.  Here is their [talk][Karen Young talk]. 
 -	In 2016, I worked with Tianle (Jeff) Yang (Iowa State) on a project studying the Lorentz gas model with random scatterer collisions.
+ -->
 
 #### Papers
 
